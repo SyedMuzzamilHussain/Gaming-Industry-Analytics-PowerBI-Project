@@ -1,0 +1,116 @@
+GAMING INDUSTRY ANALYTICS — FULL POWER BI DASHBOARD BUILD GUIDE
+Dataset: Gaming_Industry_Synthetic_Dataset.csv
+Important: The dataset is synthetic. Do not present results as real gaming-industry statistics.
+
+PROJECT STRUCTURE
+Create 3 report pages:
+1. Executive Overview
+2. Genre & Platform Analysis
+3. Game & Publisher Rankings
+
+MEASURES
+Create each using Modeling > New measure. If your table name differs, replace
+'Gaming_Industry_Synthetic_Dataset' with the exact name shown in the Data pane.
+
+Total Global Sales =
+SUM('Gaming_Industry_Synthetic_Dataset'[Global_Sales_M])
+
+Total Game Records =
+COUNTROWS('Gaming_Industry_Synthetic_Dataset')
+
+Average Global Sales =
+AVERAGE('Gaming_Industry_Synthetic_Dataset'[Global_Sales_M])
+
+Platform Sales =
+SUM('Gaming_Industry_Synthetic_Dataset'[Global_Sales_M])
+
+North America Sales =
+SUM('Gaming_Industry_Synthetic_Dataset'[North_America_Sales_M])
+
+Europe Sales =
+SUM('Gaming_Industry_Synthetic_Dataset'[Europe_Sales_M])
+
+Japan Sales =
+SUM('Gaming_Industry_Synthetic_Dataset'[Japan_Sales_M])
+
+Other Regions Sales =
+SUM('Gaming_Industry_Synthetic_Dataset'[Other_Regions_Sales_M])
+
+Average Release Year =
+AVERAGE('Gaming_Industry_Synthetic_Dataset'[Release_Year])
+
+PAGE 1 — EXECUTIVE OVERVIEW
+Recommended canvas: 16:9 widescreen. Keep consistent spacing and avoid overcrowding.
+
+Top row (4 cards):
+- Total Global Sales
+- Total Game Records
+- Average Global Sales
+- Distinct Platforms (optional measure below)
+
+Distinct Platforms =
+DISTINCTCOUNT('Gaming_Industry_Synthetic_Dataset'[Platform])
+
+Main visuals:
+- Clustered bar chart: Genre on Y-axis; Total Global Sales on X-axis.
+  Title: Global Sales by Genre
+- Clustered column chart: Platform on X-axis; Platform Sales on Y-axis.
+  Title: Global Sales by Platform
+- Line chart: Release_Year on X-axis; Total Global Sales on Y-axis.
+  Title: Global Sales by Release Year
+- Clustered bar chart: Region names are easier to compare using four separate regional measures,
+  or use a regional data reshape in Power Query for a single Region / Sales chart.
+
+Slicers:
+- Release_Year
+- Genre
+- Platform
+- Publisher
+
+PAGE 2 — GENRE & PLATFORM ANALYSIS
+- Matrix: Rows = Genre; Columns = Platform; Values = Total Global Sales.
+- Clustered column chart: Genre on X-axis; Total Global Sales on Y-axis; Legend = Platform.
+- Bar chart: Genre on Y-axis; North America Sales, Europe Sales, Japan Sales, and Other Regions Sales as values.
+- Slicers: Release_Year, Publisher.
+
+PAGE 3 — GAME & PUBLISHER RANKINGS
+- Table with Game_Name, Platform, Genre, Publisher, Release_Year, Global_Sales_M.
+- Bar chart: Publisher on Y-axis; Total Global Sales on X-axis.
+- Optional Top N filter on Game_Name for the highest-selling records:
+  Select the table or chart > Filters pane > Game_Name > filter type Top N > Top 10 > By value = Total Global Sales > Apply filter.
+  Note: Game names in this dataset are fictional.
+
+VISUAL FORMATTING
+- Apply the supplied “Gaming Industry Analytics — Neon Night” theme if available.
+- Use clear titles, consistent fonts, and aligned edges.
+- Use the same sales unit everywhere: sales are in millions (M) in the source data.
+- For card formatting, set Display units to None if you want full values; otherwise K/M abbreviations are acceptable if the title/unit is clear.
+- Sort sales charts by the sales measure descending.
+- Keep slicers in a single row or a narrow left panel.
+- Do not use 3D charts or too many colors.
+- Add a small text label on each page: “Synthetic dataset for portfolio practice”.
+
+IMPORTANT FIELD AGGREGATION TROUBLESHOOTING
+If Power BI shows Count instead of Sum:
+1. In the Data pane, click Global_Sales_M.
+2. On Column tools, confirm Data type = Decimal number.
+3. Check Summarization = Sum if available.
+4. In the visual field well, open the dropdown for Global_Sales_M and select Sum.
+5. If Sum is unavailable, create and use the explicit measure:
+   Platform Sales = SUM('Gaming_Industry_Synthetic_Dataset'[Global_Sales_M])
+   Place Platform on the category axis and Platform Sales on the value axis.
+
+BUILD ORDER FOR A BEGINNER
+1. Finish and check the Platform Sales chart on Page 1.
+2. Add the Release Year line chart.
+3. Add slicers.
+4. Create Page 2 and add the matrix.
+5. Create Page 3 and add the table and publisher chart.
+6. Review titles, alignment, units, and synthetic-data disclaimer.
+7. Save the PBIX and take screenshots for the portfolio.
+
+PORTFOLIO DESCRIPTION
+Gaming Industry Analytics is a Power BI portfolio project using a synthetic dataset of 1,000
+game-platform records. It explores total sales by genre, platform, release year, region, and
+publisher. The project demonstrates data validation, DAX measures, interactive slicers, chart
+design, and dashboard storytelling. All dataset values and entities are fictional.

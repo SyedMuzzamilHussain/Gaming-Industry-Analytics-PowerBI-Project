@@ -1,0 +1,1001 @@
+Game_ID,Game_Name,Platform,Genre,Publisher,Release_Year,North_America_Sales_M,Europe_Sales_M,Japan_Sales_M,Other_Regions_Sales_M,Global_Sales_M
+GM0001,Empire Architect 0001,Xbox One,Strategy,NextLevel Entertainment,2018,0.5,0.27,0.06,0.39,1.22
+GM0002,Mystic Trails 0002,PC,Adventure,NextLevel Entertainment,2025,0.58,0.4,0.25,0.3,1.53
+GM0003,Crystal Logic 0003,Xbox One,Puzzle,BluePeak Digital,2019,0.11,0.12,0.04,0.08,0.35
+GM0004,The Clockwork Room 0004,Xbox Series X|S,Puzzle,RedFox Publishing,2016,0.29,0.24,0.09,0.09,0.71
+GM0005,City Builder X 0005,Xbox One,Simulation,Orbit Works,2016,0.16,0.09,0.03,0.08,0.36
+GM0006,City Builder X 0006,Xbox Series X|S,Simulation,Arcadia Interactive,2023,0.34,0.33,0.12,0.13,0.92
+GM0007,Velocity Rush 0007,Nintendo Switch,Racing,Nova Games,2018,0.27,0.17,0.08,0.06,0.58
+GM0008,Skybound Journey 0008,PlayStation 4,Adventure,Vertex Play,2017,0.21,0.13,0.06,0.11,0.51
+GM0009,Phantom Ops 0009,PlayStation 4,Shooter,Arcadia Interactive,2023,0.52,0.27,0.07,0.27,1.13
+GM0010,Deep Space Engineer 0010,PC,Simulation,RedFox Publishing,2024,0.43,0.38,0.07,0.36,1.24
+GM0011,Court Masters 0011,PC,Sports,Orbit Works,2023,0.68,0.66,0.34,0.46,2.14
+GM0012,Turbo Circuit 0012,PC,Racing,Arcadia Interactive,2023,1.48,0.9,0.35,1.09,3.82
+GM0013,Iron Fist League 0013,PlayStation 5,Fighting,NextLevel Entertainment,2024,0.38,0.28,0.05,0.15,0.86
+GM0014,World Cup Challenge 0014,PC,Sports,RedFox Publishing,2018,0.86,0.72,0.21,0.51,2.3
+GM0015,Phantom Ops 0015,PC,Shooter,NextLevel Entertainment,2016,0.19,0.14,0.03,0.19,0.55
+GM0016,Frontier Command 0016,PC,Strategy,Nova Games,2020,0.13,0.08,0.02,0.08,0.31
+GM0017,Final Round 0017,Xbox Series X|S,Fighting,NextLevel Entertainment,2022,0.38,0.34,0.12,0.37,1.21
+GM0018,Pro League 26 0018,Xbox One,Sports,Pixel Studios,2015,0.26,0.14,0.04,0.13,0.57
+GM0019,Court Masters 0019,PlayStation 5,Sports,Vertex Play,2018,0.07,0.04,0.01,0.06,0.18
+GM0020,Crystal Logic 0020,PC,Puzzle,Vertex Play,2022,0.09,0.08,0.05,0.07,0.29
+GM0021,Skybound Journey 0021,PlayStation 5,Adventure,Vertex Play,2017,0.15,0.15,0.02,0.15,0.47
+GM0022,Kingdom Quest 0022,Xbox Series X|S,Role-Playing,Arcadia Interactive,2015,0.11,0.07,0.01,0.07,0.26
+GM0023,Frontline Zero 0023,Xbox Series X|S,Shooter,Nova Games,2024,0.42,0.38,0.1,0.31,1.21
+GM0024,Echoes of Avalon 0024,Xbox One,Adventure,Orbit Works,2022,0.08,0.07,0.05,0.06,0.26
+GM0025,Arena Clash 0025,Xbox Series X|S,Fighting,Orbit Works,2017,0.49,0.5,0.21,0.29,1.49
+GM0026,Galaxy Tactician 0026,PC,Strategy,Orbit Works,2025,0.41,0.29,0.1,0.36,1.16
+GM0027,Flight Academy 0027,Xbox Series X|S,Simulation,Orbit Works,2015,0.06,0.04,0.03,0.05,0.18
+GM0028,Tactical Dominion 0028,PC,Strategy,Vertex Play,2023,0.47,0.51,0.2,0.28,1.46
+GM0029,Shadow Strike 0029,Nintendo Switch,Action,Arcadia Interactive,2021,0.21,0.15,0.07,0.02,0.45
+GM0030,Frontline Zero 0030,Xbox One,Shooter,Pixel Studios,2020,0.21,0.22,0.1,0.1,0.63
+GM0031,Shadow Duel 0031,Mobile,Fighting,Nova Games,2017,0.41,0.29,0.14,0.04,0.88
+GM0032,Orbital Strike 0032,PC,Shooter,Pixel Studios,2021,0.05,0.03,0.02,0.02,0.12
+GM0033,Lost Kingdom 0033,Xbox One,Adventure,RedFox Publishing,2020,0.22,0.14,0.06,0.09,0.51
+GM0034,Deep Space Engineer 0034,PlayStation 4,Simulation,Nova Games,2016,0.52,0.46,0.06,0.25,1.29
+GM0035,Tactical Dominion 0035,Xbox One,Strategy,BluePeak Digital,2021,0.31,0.25,0.06,0.21,0.83
+GM0036,City Builder X 0036,Xbox Series X|S,Simulation,NextLevel Entertainment,2020,0.04,0.03,0.01,0.01,0.09
+GM0037,Nightfall Protocol 0037,Xbox Series X|S,Action,RedFox Publishing,2020,0.26,0.23,0.14,0.18,0.81
+GM0038,Farmstead Life 0038,Xbox Series X|S,Simulation,Orbit Works,2021,0.14,0.11,0.04,0.06,0.35
+GM0039,Ultimate Striker 0039,Xbox Series X|S,Sports,Arcadia Interactive,2025,0.11,0.07,0.04,0.04,0.26
+GM0040,Puzzle Planet 0040,PlayStation 5,Puzzle,NextLevel Entertainment,2017,0.14,0.12,0.06,0.12,0.44
+GM0041,Skybound Journey 0041,PlayStation 4,Adventure,NextLevel Entertainment,2017,1.27,1.11,0.26,1.34,3.98
+GM0042,Final Round 0042,PlayStation 4,Fighting,NextLevel Entertainment,2016,0.21,0.18,0.06,0.05,0.5
+GM0043,Combat Legends 0043,Xbox Series X|S,Fighting,RedFox Publishing,2023,0.29,0.18,0.09,0.08,0.64
+GM0044,Orbital Strike 0044,Nintendo Switch,Shooter,Vertex Play,2025,0.23,0.14,0.05,0.12,0.54
+GM0045,Critical Impact 0045,PC,Shooter,NextLevel Entertainment,2021,0.88,0.79,0.33,0.84,2.84
+GM0046,Ultimate Striker 0046,Nintendo Switch,Sports,RedFox Publishing,2024,1.29,1.18,0.27,0.6,3.34
+GM0047,Chronicles of Ember 0047,Xbox Series X|S,Role-Playing,NextLevel Entertainment,2022,0.14,0.12,0.06,0.14,0.46
+GM0048,Ultimate Striker 0048,Nintendo Switch,Sports,Arcadia Interactive,2024,0.63,0.48,0.08,0.35,1.54
+GM0049,Court Masters 0049,PlayStation 5,Sports,Orbit Works,2021,0.23,0.22,0.05,0.14,0.64
+GM0050,Combat Legends 0050,PlayStation 5,Fighting,Pixel Studios,2022,0.96,0.75,0.4,0.19,2.3
+GM0051,Lost Kingdom 0051,Xbox One,Adventure,NextLevel Entertainment,2017,0.3,0.18,0.05,0.11,0.64
+GM0052,Starborn Saga 0052,Xbox Series X|S,Role-Playing,Pixel Studios,2017,0.13,0.11,0.03,0.04,0.31
+GM0053,City Builder X 0053,Xbox Series X|S,Simulation,NextLevel Entertainment,2016,0.34,0.27,0.12,0.07,0.8
+GM0054,Speed Legends 0054,PlayStation 4,Racing,RedFox Publishing,2025,0.22,0.21,0.1,0.09,0.62
+GM0055,Nightfall Protocol 0055,Xbox One,Action,Vertex Play,2017,0.29,0.16,0.09,0.07,0.61
+GM0056,Drift Republic 0056,PlayStation 4,Racing,Orbit Works,2020,0.17,0.11,0.02,0.11,0.41
+GM0057,Frontline Zero 0057,PlayStation 4,Shooter,BluePeak Digital,2019,0.07,0.04,0.01,0.04,0.16
+GM0058,Arena Clash 0058,PlayStation 5,Fighting,RedFox Publishing,2022,0.36,0.3,0.1,0.18,0.94
+GM0059,Nightfall Protocol 0059,PlayStation 5,Action,NextLevel Entertainment,2019,0.69,0.46,0.31,0.26,1.72
+GM0060,Velocity Rush 0060,Xbox One,Racing,Orbit Works,2019,0.15,0.1,0.05,0.14,0.44
+GM0061,Crystal Logic 0061,PlayStation 5,Puzzle,Vertex Play,2019,0.2,0.15,0.04,0.23,0.62
+GM0062,Lost Kingdom 0062,Xbox One,Adventure,Arcadia Interactive,2019,0.5,0.35,0.12,0.59,1.56
+GM0063,Racing Champions 0063,PlayStation 5,Sports,Nova Games,2019,1.51,0.93,0.17,0.76,3.37
+GM0064,Empire Architect 0064,PC,Strategy,Orbit Works,2016,0.74,0.42,0.19,0.32,1.67
+GM0065,Court Masters 0065,PlayStation 5,Sports,RedFox Publishing,2019,0.52,0.26,0.16,0.16,1.1
+GM0066,Tactical Dominion 0066,Xbox One,Strategy,Arcadia Interactive,2018,0.23,0.22,0.09,0.14,0.68
+GM0067,Ultimate Striker 0067,Mobile,Sports,NextLevel Entertainment,2021,0.11,0.09,0.02,0.12,0.34
+GM0068,Nightfall Protocol 0068,Xbox Series X|S,Action,Orbit Works,2022,0.08,0.06,0.02,0.02,0.18
+GM0069,Speed Legends 0069,Xbox Series X|S,Racing,RedFox Publishing,2020,0.28,0.26,0.13,0.15,0.82
+GM0070,Empire Architect 0070,Mobile,Strategy,Orbit Works,2024,0.24,0.12,0.06,0.08,0.5
+GM0071,Iron Realms 0071,Mobile,Strategy,Vertex Play,2020,0.14,0.1,0.04,0.15,0.43
+GM0072,Drift Republic 0072,Nintendo Switch,Racing,Nova Games,2022,0.11,0.11,0.05,0.06,0.33
+GM0073,Critical Impact 0073,Xbox One,Shooter,Vertex Play,2021,0.1,0.07,0.02,0.05,0.24
+GM0074,Nightfall Protocol 0074,Xbox Series X|S,Action,Orbit Works,2022,0.94,0.94,0.47,0.72,3.07
+GM0075,Flight Academy 0075,Xbox Series X|S,Simulation,RedFox Publishing,2016,0.32,0.18,0.1,0.09,0.69
+GM0076,Court Masters 0076,Mobile,Sports,NextLevel Entertainment,2022,0.39,0.24,0.13,0.07,0.83
+GM0077,Orbital Strike 0077,Nintendo Switch,Shooter,RedFox Publishing,2020,1.55,0.9,0.28,0.73,3.46
+GM0078,Iron Realms 0078,Nintendo Switch,Strategy,Vertex Play,2023,0.28,0.18,0.11,0.08,0.65
+GM0079,Frontline Zero 0079,Xbox Series X|S,Shooter,NextLevel Entertainment,2021,1.77,1.5,0.74,0.78,4.79
+GM0080,Combat Legends 0080,Mobile,Fighting,Arcadia Interactive,2023,0.53,0.56,0.09,0.48,1.66
+GM0081,Critical Impact 0081,Xbox One,Shooter,RedFox Publishing,2025,0.73,0.49,0.09,0.46,1.77
+GM0082,Starborn Saga 0082,PlayStation 4,Role-Playing,BluePeak Digital,2025,2.03,1.0,0.22,1.19,4.44
+GM0083,Tactical Dominion 0083,Mobile,Strategy,Pixel Studios,2021,0.25,0.2,0.03,0.27,0.75
+GM0084,Kingdom Quest 0084,PlayStation 5,Role-Playing,BluePeak Digital,2021,0.15,0.12,0.02,0.08,0.37
+GM0085,Rogue Battalion 0085,Xbox Series X|S,Action,NextLevel Entertainment,2022,0.33,0.21,0.15,0.27,0.96
+GM0086,Target Lock 0086,PC,Shooter,Vertex Play,2020,0.46,0.33,0.05,0.12,0.96
+GM0087,Legends of Aether 0087,Xbox Series X|S,Role-Playing,Orbit Works,2015,0.16,0.12,0.02,0.08,0.38
+GM0088,Iron Realms 0088,Nintendo Switch,Strategy,Orbit Works,2018,0.31,0.23,0.1,0.11,0.75
+GM0089,Farmstead Life 0089,Xbox One,Simulation,Nova Games,2019,0.2,0.11,0.04,0.07,0.42
+GM0090,Mystic Trails 0090,Nintendo Switch,Adventure,BluePeak Digital,2023,0.26,0.28,0.14,0.12,0.8
+GM0091,Iron Fist League 0091,Xbox One,Fighting,BluePeak Digital,2016,0.24,0.14,0.07,0.1,0.55
+GM0092,Auto Workshop Sim 0092,Mobile,Simulation,BluePeak Digital,2016,0.21,0.15,0.06,0.07,0.49
+GM0093,Orbital Strike 0093,PC,Shooter,NextLevel Entertainment,2022,1.08,0.73,0.49,0.88,3.18
+GM0094,Orbital Strike 0094,Xbox One,Shooter,Pixel Studios,2017,0.14,0.1,0.06,0.07,0.37
+GM0095,Deep Space Engineer 0095,PlayStation 4,Simulation,Arcadia Interactive,2021,1.1,0.94,0.21,0.43,2.68
+GM0096,Farmstead Life 0096,PlayStation 4,Simulation,NextLevel Entertainment,2020,4.37,3.31,0.8,3.52,12.0
+GM0097,Rogue Battalion 0097,PC,Action,NextLevel Entertainment,2025,0.22,0.15,0.03,0.06,0.46
+GM0098,Target Lock 0098,PlayStation 5,Shooter,NextLevel Entertainment,2018,0.38,0.18,0.13,0.13,0.82
+GM0099,Steel Horizon 0099,Xbox Series X|S,Action,Arcadia Interactive,2016,0.35,0.38,0.08,0.34,1.15
+GM0100,Dragon Crown 0100,PlayStation 5,Role-Playing,Arcadia Interactive,2021,0.51,0.43,0.15,0.23,1.32
+GM0101,Neon Rebellion 0101,PlayStation 5,Action,Nova Games,2025,0.67,0.33,0.15,0.27,1.42
+GM0102,Pro League 26 0102,PlayStation 4,Sports,Vertex Play,2016,0.68,0.49,0.26,0.64,2.07
+GM0103,Tactical Dominion 0103,PlayStation 4,Strategy,Orbit Works,2022,0.34,0.18,0.1,0.15,0.77
+GM0104,Target Lock 0104,Xbox One,Shooter,NextLevel Entertainment,2021,0.31,0.24,0.08,0.22,0.85
+GM0105,Rogue Battalion 0105,PlayStation 5,Action,Orbit Works,2020,0.37,0.33,0.17,0.3,1.17
+GM0106,Dragon Crown 0106,Xbox Series X|S,Role-Playing,BluePeak Digital,2025,0.18,0.14,0.07,0.04,0.43
+GM0107,Flight Academy 0107,Xbox Series X|S,Simulation,BluePeak Digital,2016,0.26,0.15,0.03,0.17,0.61
+GM0108,Orbital Strike 0108,PC,Shooter,Orbit Works,2024,0.23,0.19,0.07,0.08,0.57
+GM0109,Deep Space Engineer 0109,PC,Simulation,Orbit Works,2015,0.04,0.03,0.0,0.04,0.11
+GM0110,Target Lock 0110,Xbox One,Shooter,Pixel Studios,2017,0.09,0.07,0.01,0.07,0.24
+GM0111,Legends of Aether 0111,Nintendo Switch,Role-Playing,Pixel Studios,2015,0.29,0.2,0.05,0.17,0.71
+GM0112,Velocity Rush 0112,PlayStation 4,Racing,Orbit Works,2025,0.63,0.34,0.14,0.39,1.5
+GM0113,Empire Architect 0113,PlayStation 5,Strategy,NextLevel Entertainment,2017,0.39,0.35,0.12,0.35,1.21
+GM0114,Neon Rebellion 0114,Xbox One,Action,BluePeak Digital,2016,0.18,0.14,0.02,0.14,0.48
+GM0115,Chronicles of Ember 0115,Xbox Series X|S,Role-Playing,RedFox Publishing,2019,0.1,0.08,0.04,0.02,0.24
+GM0116,Shadow Strike 0116,PlayStation 5,Action,RedFox Publishing,2023,0.9,0.47,0.26,0.41,2.04
+GM0117,Turbo Circuit 0117,Mobile,Racing,BluePeak Digital,2020,1.66,0.94,0.23,0.89,3.72
+GM0118,Mystic Trails 0118,PC,Adventure,Pixel Studios,2017,0.28,0.22,0.11,0.08,0.69
+GM0119,Galaxy Tactician 0119,PlayStation 5,Strategy,BluePeak Digital,2017,0.25,0.2,0.07,0.08,0.6
+GM0120,Kingdom Quest 0120,PlayStation 5,Role-Playing,Vertex Play,2015,1.48,1.08,0.45,0.78,3.79
+GM0121,Mind Maze 0121,PlayStation 4,Puzzle,NextLevel Entertainment,2020,0.37,0.22,0.12,0.07,0.78
+GM0122,Critical Impact 0122,Xbox Series X|S,Shooter,Arcadia Interactive,2015,0.17,0.13,0.03,0.12,0.45
+GM0123,Legends of Aether 0123,PlayStation 4,Role-Playing,BluePeak Digital,2025,0.97,0.53,0.12,0.7,2.32
+GM0124,Flight Academy 0124,PlayStation 5,Simulation,Arcadia Interactive,2020,0.71,0.53,0.1,0.36,1.7
+GM0125,City Builder X 0125,PlayStation 5,Simulation,RedFox Publishing,2025,1.45,1.06,0.38,0.46,3.35
+GM0126,Iron Realms 0126,Xbox Series X|S,Strategy,Nova Games,2020,0.08,0.08,0.01,0.06,0.23
+GM0127,Kingdom Quest 0127,Xbox Series X|S,Role-Playing,Nova Games,2025,0.12,0.1,0.02,0.13,0.37
+GM0128,Target Lock 0128,Nintendo Switch,Shooter,Arcadia Interactive,2022,0.15,0.12,0.04,0.03,0.34
+GM0129,The Clockwork Room 0129,PlayStation 5,Puzzle,NextLevel Entertainment,2019,0.52,0.37,0.12,0.22,1.23
+GM0130,The Clockwork Room 0130,Xbox Series X|S,Puzzle,RedFox Publishing,2017,0.1,0.08,0.03,0.03,0.24
+GM0131,Neon Rebellion 0131,Nintendo Switch,Action,Orbit Works,2016,0.71,0.37,0.16,0.3,1.54
+GM0132,Shadow Duel 0132,Nintendo Switch,Fighting,BluePeak Digital,2015,0.18,0.13,0.02,0.15,0.48
+GM0133,The Forgotten Map 0133,Mobile,Adventure,BluePeak Digital,2017,0.13,0.09,0.02,0.05,0.29
+GM0134,Auto Workshop Sim 0134,Xbox Series X|S,Simulation,Pixel Studios,2015,0.02,0.02,0.01,0.01,0.06
+GM0135,Nightfall Protocol 0135,PlayStation 5,Action,Pixel Studios,2015,0.15,0.09,0.06,0.08,0.38
+GM0136,Nitro Horizon 0136,PC,Racing,NextLevel Entertainment,2017,0.15,0.14,0.05,0.11,0.45
+GM0137,Starborn Saga 0137,Xbox Series X|S,Role-Playing,Nova Games,2021,0.31,0.19,0.04,0.18,0.72
+GM0138,Lost Kingdom 0138,Nintendo Switch,Adventure,BluePeak Digital,2017,0.07,0.04,0.02,0.03,0.16
+GM0139,Court Masters 0139,Xbox One,Sports,Arcadia Interactive,2016,0.18,0.16,0.05,0.09,0.48
+GM0140,Steel Horizon 0140,PlayStation 5,Action,Nova Games,2025,0.37,0.35,0.15,0.15,1.02
+GM0141,Phantom Ops 0141,PlayStation 4,Shooter,Arcadia Interactive,2022,0.8,0.46,0.09,0.45,1.8
+GM0142,Court Masters 0142,Xbox Series X|S,Sports,Arcadia Interactive,2023,0.23,0.17,0.07,0.18,0.65
+GM0143,Farmstead Life 0143,Xbox One,Simulation,BluePeak Digital,2022,0.35,0.25,0.14,0.05,0.79
+GM0144,Neon Rebellion 0144,Xbox One,Action,Vertex Play,2015,0.17,0.11,0.07,0.06,0.41
+GM0145,Steel Horizon 0145,Xbox One,Action,BluePeak Digital,2020,0.28,0.24,0.07,0.28,0.87
+GM0146,Kingdom Quest 0146,PC,Role-Playing,Arcadia Interactive,2022,0.46,0.47,0.2,0.3,1.43
+GM0147,Mystic Trails 0147,PlayStation 5,Adventure,Vertex Play,2018,0.17,0.1,0.06,0.11,0.44
+GM0148,Orbital Strike 0148,Xbox One,Shooter,Pixel Studios,2023,0.77,0.54,0.29,0.1,1.7
+GM0149,Tactical Dominion 0149,Xbox Series X|S,Strategy,Pixel Studios,2018,0.41,0.28,0.13,0.23,1.05
+GM0150,World Cup Challenge 0150,PC,Sports,Pixel Studios,2016,0.72,0.55,0.08,0.29,1.64
+GM0151,Arena Clash 0151,PlayStation 4,Fighting,BluePeak Digital,2017,0.44,0.26,0.15,0.07,0.92
+GM0152,Shadow Strike 0152,Xbox Series X|S,Action,Orbit Works,2017,0.3,0.24,0.17,0.26,0.97
+GM0153,Legends of Aether 0153,Xbox Series X|S,Role-Playing,Pixel Studios,2023,0.65,0.39,0.21,0.36,1.61
+GM0154,Orbital Strike 0154,Nintendo Switch,Shooter,Nova Games,2015,0.49,0.44,0.18,0.34,1.45
+GM0155,Neon Rebellion 0155,PlayStation 5,Action,Orbit Works,2022,0.07,0.05,0.02,0.04,0.18
+GM0156,Rogue Battalion 0156,PlayStation 4,Action,NextLevel Entertainment,2020,0.62,0.47,0.23,0.13,1.45
+GM0157,Shadow Duel 0157,Nintendo Switch,Fighting,Pixel Studios,2020,0.17,0.1,0.02,0.14,0.43
+GM0158,Final Round 0158,PlayStation 4,Fighting,Arcadia Interactive,2020,0.22,0.13,0.07,0.03,0.45
+GM0159,Speed Legends 0159,Mobile,Racing,Vertex Play,2018,0.09,0.09,0.05,0.07,0.3
+GM0160,Iron Realms 0160,PlayStation 5,Strategy,Nova Games,2016,0.13,0.1,0.03,0.04,0.3
+GM0161,World Cup Challenge 0161,Xbox Series X|S,Sports,BluePeak Digital,2023,0.2,0.16,0.08,0.09,0.53
+GM0162,Galaxy Tactician 0162,PC,Strategy,Pixel Studios,2021,0.26,0.25,0.08,0.22,0.81
+GM0163,Shadow Strike 0163,PC,Action,BluePeak Digital,2022,0.55,0.29,0.2,0.15,1.19
+GM0164,Chronicles of Ember 0164,Mobile,Role-Playing,Orbit Works,2024,0.08,0.07,0.02,0.04,0.21
+GM0165,Orbital Strike 0165,PlayStation 4,Shooter,Pixel Studios,2021,0.89,0.65,0.09,0.43,2.06
+GM0166,World Cup Challenge 0166,Xbox Series X|S,Sports,Nova Games,2024,0.37,0.28,0.08,0.13,0.86
+GM0167,Frontline Zero 0167,PC,Shooter,Pixel Studios,2018,0.12,0.12,0.04,0.09,0.37
+GM0168,The Clockwork Room 0168,Nintendo Switch,Puzzle,Nova Games,2017,0.24,0.14,0.05,0.07,0.5
+GM0169,Combat Legends 0169,Mobile,Fighting,BluePeak Digital,2023,0.1,0.07,0.03,0.03,0.23
+GM0170,Frontier Command 0170,Mobile,Strategy,Orbit Works,2023,0.57,0.42,0.17,0.3,1.46
+GM0171,Iron Fist League 0171,PlayStation 5,Fighting,RedFox Publishing,2021,0.54,0.49,0.14,0.37,1.54
+GM0172,Racing Champions 0172,Xbox One,Sports,NextLevel Entertainment,2018,0.58,0.37,0.08,0.41,1.44
+GM0173,Crystal Logic 0173,PlayStation 5,Puzzle,NextLevel Entertainment,2025,0.16,0.12,0.06,0.1,0.44
+GM0174,Neon Rebellion 0174,Mobile,Action,Arcadia Interactive,2021,2.15,1.73,0.81,0.88,5.57
+GM0175,Legends of Aether 0175,Xbox One,Role-Playing,Pixel Studios,2025,0.52,0.43,0.2,0.06,1.21
+GM0176,Echoes of Avalon 0176,Mobile,Adventure,Nova Games,2021,0.47,0.37,0.09,0.15,1.08
+GM0177,Nightfall Protocol 0177,Xbox Series X|S,Action,Pixel Studios,2020,0.53,0.38,0.12,0.1,1.13
+GM0178,Lost Kingdom 0178,PlayStation 4,Adventure,Vertex Play,2025,0.27,0.21,0.07,0.07,0.62
+GM0179,Crystal Logic 0179,Xbox Series X|S,Puzzle,RedFox Publishing,2021,0.22,0.13,0.03,0.14,0.52
+GM0180,Dragon Crown 0180,PC,Role-Playing,RedFox Publishing,2018,0.31,0.26,0.1,0.19,0.86
+GM0181,The Forgotten Map 0181,Xbox One,Adventure,Nova Games,2025,0.13,0.1,0.06,0.06,0.35
+GM0182,Flight Academy 0182,Xbox One,Simulation,Orbit Works,2020,0.22,0.17,0.1,0.2,0.69
+GM0183,Iron Realms 0183,Xbox One,Strategy,Vertex Play,2023,0.85,0.69,0.24,0.31,2.09
+GM0184,Velocity Rush 0184,PC,Racing,Pixel Studios,2015,0.09,0.09,0.03,0.06,0.27
+GM0185,Deep Space Engineer 0185,PlayStation 4,Simulation,Vertex Play,2015,0.2,0.12,0.05,0.15,0.52
+GM0186,Mind Maze 0186,PlayStation 4,Puzzle,Nova Games,2018,0.23,0.14,0.11,0.14,0.62
+GM0187,Arena Clash 0187,Mobile,Fighting,Vertex Play,2015,0.11,0.11,0.05,0.08,0.35
+GM0188,Iron Fist League 0188,Mobile,Fighting,RedFox Publishing,2022,0.14,0.1,0.04,0.05,0.33
+GM0189,Dragon Crown 0189,Mobile,Role-Playing,RedFox Publishing,2023,2.9,1.74,0.86,0.6,6.1
+GM0190,Court Masters 0190,Nintendo Switch,Sports,NextLevel Entertainment,2022,0.3,0.21,0.04,0.1,0.65
+GM0191,The Clockwork Room 0191,Xbox Series X|S,Puzzle,Nova Games,2018,0.09,0.09,0.04,0.07,0.29
+GM0192,Shadow Strike 0192,PlayStation 4,Action,NextLevel Entertainment,2023,0.12,0.11,0.05,0.06,0.34
+GM0193,Starborn Saga 0193,Nintendo Switch,Role-Playing,BluePeak Digital,2018,0.26,0.16,0.05,0.15,0.62
+GM0194,Neon Rebellion 0194,Nintendo Switch,Action,Arcadia Interactive,2025,0.62,0.54,0.26,0.59,2.01
+GM0195,Starborn Saga 0195,PlayStation 5,Role-Playing,RedFox Publishing,2021,0.22,0.14,0.08,0.06,0.5
+GM0196,Dragon Crown 0196,Nintendo Switch,Role-Playing,Nova Games,2023,0.31,0.22,0.06,0.2,0.79
+GM0197,Kingdom Quest 0197,Mobile,Role-Playing,BluePeak Digital,2016,0.29,0.26,0.12,0.28,0.95
+GM0198,Shadow Strike 0198,PlayStation 5,Action,NextLevel Entertainment,2022,0.33,0.24,0.11,0.07,0.75
+GM0199,Target Lock 0199,Xbox One,Shooter,RedFox Publishing,2018,0.45,0.36,0.11,0.3,1.22
+GM0200,Mystic Trails 0200,Mobile,Adventure,Vertex Play,2016,1.23,0.75,0.19,0.65,2.82
+GM0201,Kingdom Quest 0201,Xbox Series X|S,Role-Playing,NextLevel Entertainment,2017,0.47,0.33,0.1,0.43,1.33
+GM0202,Turbo Circuit 0202,PlayStation 4,Racing,BluePeak Digital,2019,0.73,0.55,0.18,0.24,1.7
+GM0203,Flight Academy 0203,PC,Simulation,Vertex Play,2017,0.94,0.52,0.1,0.71,2.27
+GM0204,Critical Impact 0204,Nintendo Switch,Shooter,RedFox Publishing,2017,0.73,0.38,0.19,0.41,1.71
+GM0205,Starborn Saga 0205,Xbox One,Role-Playing,Vertex Play,2025,0.38,0.21,0.11,0.25,0.95
+GM0206,Legends of Aether 0206,PC,Role-Playing,RedFox Publishing,2017,0.2,0.17,0.04,0.1,0.51
+GM0207,Racing Champions 0207,Mobile,Sports,Vertex Play,2024,0.08,0.07,0.01,0.06,0.22
+GM0208,Arena Clash 0208,PC,Fighting,RedFox Publishing,2021,0.25,0.2,0.09,0.28,0.82
+GM0209,Racing Champions 0209,Xbox Series X|S,Sports,Pixel Studios,2023,0.91,0.62,0.23,0.2,1.96
+GM0210,Kingdom Quest 0210,Xbox One,Role-Playing,Orbit Works,2023,0.48,0.27,0.18,0.1,1.03
+GM0211,Iron Realms 0211,Mobile,Strategy,Orbit Works,2017,0.28,0.19,0.07,0.07,0.61
+GM0212,Dragon Crown 0212,Nintendo Switch,Role-Playing,Pixel Studios,2023,0.54,0.43,0.09,0.64,1.7
+GM0213,Galaxy Tactician 0213,Mobile,Strategy,RedFox Publishing,2020,0.1,0.06,0.02,0.03,0.21
+GM0214,Combat Legends 0214,PlayStation 5,Fighting,RedFox Publishing,2016,0.44,0.3,0.1,0.45,1.29
+GM0215,Dragon Crown 0215,Xbox One,Role-Playing,BluePeak Digital,2020,0.2,0.13,0.04,0.19,0.56
+GM0216,World Cup Challenge 0216,Xbox Series X|S,Sports,Pixel Studios,2015,0.08,0.06,0.03,0.02,0.19
+GM0217,Rogue Battalion 0217,PlayStation 4,Action,Pixel Studios,2023,0.52,0.34,0.12,0.43,1.41
+GM0218,Speed Legends 0218,PC,Racing,Orbit Works,2021,0.08,0.07,0.03,0.03,0.21
+GM0219,Nitro Horizon 0219,PlayStation 5,Racing,Pixel Studios,2017,0.19,0.11,0.04,0.08,0.42
+GM0220,Target Lock 0220,PC,Shooter,BluePeak Digital,2024,1.28,0.87,0.36,0.5,3.01
+GM0221,Skybound Journey 0221,PlayStation 5,Adventure,RedFox Publishing,2020,0.1,0.07,0.03,0.04,0.24
+GM0222,Drift Republic 0222,Mobile,Racing,NextLevel Entertainment,2022,0.75,0.61,0.17,0.78,2.31
+GM0223,Rogue Battalion 0223,Nintendo Switch,Action,Pixel Studios,2022,0.36,0.25,0.09,0.08,0.78
+GM0224,Puzzle Planet 0224,Xbox One,Puzzle,Pixel Studios,2016,0.49,0.42,0.06,0.38,1.35
+GM0225,Combat Legends 0225,Mobile,Fighting,BluePeak Digital,2021,0.05,0.04,0.01,0.02,0.12
+GM0226,Chronicles of Ember 0226,Nintendo Switch,Role-Playing,Arcadia Interactive,2020,0.55,0.51,0.17,0.3,1.53
+GM0227,Kingdom Quest 0227,PlayStation 4,Role-Playing,Vertex Play,2020,0.36,0.29,0.12,0.05,0.82
+GM0228,Nitro Horizon 0228,PC,Racing,RedFox Publishing,2022,0.14,0.13,0.04,0.11,0.42
+GM0229,Neon Rebellion 0229,Mobile,Action,Vertex Play,2024,0.28,0.21,0.11,0.22,0.82
+GM0230,Shape Shift 0230,PC,Puzzle,Arcadia Interactive,2020,0.12,0.12,0.04,0.07,0.35
+GM0231,Galaxy Tactician 0231,PlayStation 4,Strategy,RedFox Publishing,2024,0.13,0.08,0.04,0.08,0.33
+GM0232,Shape Shift 0232,Xbox Series X|S,Puzzle,Arcadia Interactive,2020,0.07,0.07,0.02,0.05,0.21
+GM0233,Ultimate Striker 0233,Xbox Series X|S,Sports,RedFox Publishing,2017,0.35,0.26,0.05,0.09,0.75
+GM0234,Nightfall Protocol 0234,PC,Action,BluePeak Digital,2022,1.98,1.21,0.28,0.73,4.2
+GM0235,Starborn Saga 0235,Xbox Series X|S,Role-Playing,Vertex Play,2021,0.67,0.43,0.08,0.31,1.49
+GM0236,Steel Horizon 0236,PlayStation 5,Action,Orbit Works,2018,0.47,0.4,0.18,0.18,1.23
+GM0237,Speed Legends 0237,Xbox Series X|S,Racing,Orbit Works,2023,0.71,0.36,0.22,0.29,1.58
+GM0238,Drift Republic 0238,PC,Racing,NextLevel Entertainment,2019,0.06,0.05,0.02,0.02,0.15
+GM0239,World Cup Challenge 0239,PC,Sports,NextLevel Entertainment,2018,0.98,0.75,0.16,0.59,2.48
+GM0240,Iron Fist League 0240,PlayStation 5,Fighting,Orbit Works,2023,0.11,0.08,0.03,0.02,0.24
+GM0241,World Cup Challenge 0241,Xbox One,Sports,RedFox Publishing,2021,0.31,0.16,0.07,0.13,0.67
+GM0242,Legends of Aether 0242,PlayStation 4,Role-Playing,Vertex Play,2020,1.19,0.61,0.46,0.37,2.63
+GM0243,Tactical Dominion 0243,Nintendo Switch,Strategy,RedFox Publishing,2018,0.21,0.17,0.03,0.17,0.58
+GM0244,Orbital Strike 0244,Mobile,Shooter,Nova Games,2015,0.3,0.19,0.03,0.15,0.67
+GM0245,Shadow Duel 0245,Mobile,Fighting,Arcadia Interactive,2025,0.03,0.01,0.01,0.01,0.06
+GM0246,Steel Horizon 0246,PC,Action,Orbit Works,2018,0.3,0.24,0.05,0.36,0.95
+GM0247,Galaxy Tactician 0247,Xbox One,Strategy,Nova Games,2015,1.19,0.7,0.15,0.46,2.5
+GM0248,Rogue Battalion 0248,PC,Action,Pixel Studios,2016,0.03,0.03,0.01,0.02,0.09
+GM0249,Steel Horizon 0249,PC,Action,Nova Games,2024,0.76,0.55,0.11,0.36,1.78
+GM0250,Court Masters 0250,Nintendo Switch,Sports,Pixel Studios,2016,0.18,0.11,0.04,0.08,0.41
+GM0251,Crystal Logic 0251,PlayStation 5,Puzzle,Pixel Studios,2018,0.29,0.23,0.1,0.09,0.71
+GM0252,Orbital Strike 0252,PlayStation 5,Shooter,NextLevel Entertainment,2021,0.4,0.31,0.09,0.07,0.87
+GM0253,Rogue Battalion 0253,Xbox One,Action,Pixel Studios,2023,0.28,0.25,0.07,0.15,0.75
+GM0254,Turbo Circuit 0254,Nintendo Switch,Racing,Pixel Studios,2015,0.24,0.25,0.12,0.1,0.71
+GM0255,Racing Champions 0255,Xbox One,Sports,RedFox Publishing,2021,0.44,0.34,0.09,0.24,1.11
+GM0256,Starborn Saga 0256,Mobile,Role-Playing,Arcadia Interactive,2023,0.2,0.14,0.06,0.05,0.45
+GM0257,Chronicles of Ember 0257,Xbox One,Role-Playing,NextLevel Entertainment,2015,0.06,0.06,0.02,0.04,0.18
+GM0258,Lost Kingdom 0258,Xbox One,Adventure,Nova Games,2017,0.26,0.22,0.05,0.13,0.66
+GM0259,Legends of Aether 0259,Xbox One,Role-Playing,Pixel Studios,2015,0.2,0.13,0.09,0.09,0.51
+GM0260,Iron Realms 0260,PlayStation 4,Strategy,BluePeak Digital,2015,0.23,0.16,0.03,0.21,0.63
+GM0261,Speed Legends 0261,PlayStation 5,Racing,Nova Games,2015,0.13,0.07,0.05,0.03,0.28
+GM0262,Rogue Battalion 0262,PlayStation 5,Action,NextLevel Entertainment,2021,1.35,0.9,0.17,0.59,3.01
+GM0263,City Builder X 0263,PC,Simulation,Nova Games,2021,0.07,0.07,0.02,0.05,0.21
+GM0264,Speed Legends 0264,PlayStation 4,Racing,Orbit Works,2024,1.51,1.19,0.77,0.92,4.39
+GM0265,Shadow Duel 0265,Xbox One,Fighting,NextLevel Entertainment,2017,0.06,0.05,0.03,0.04,0.18
+GM0266,Orbital Strike 0266,PC,Shooter,RedFox Publishing,2019,0.1,0.09,0.01,0.1,0.3
+GM0267,Iron Fist League 0267,PC,Fighting,NextLevel Entertainment,2023,0.09,0.08,0.03,0.04,0.24
+GM0268,Drift Republic 0268,PC,Racing,Nova Games,2021,0.37,0.36,0.18,0.15,1.06
+GM0269,Racing Champions 0269,PlayStation 5,Sports,Orbit Works,2018,0.19,0.13,0.03,0.09,0.44
+GM0270,Rogue Battalion 0270,PlayStation 5,Action,Pixel Studios,2023,0.2,0.15,0.08,0.09,0.52
+GM0271,Nightfall Protocol 0271,Nintendo Switch,Action,Nova Games,2018,0.63,0.5,0.18,0.67,1.98
+GM0272,Velocity Rush 0272,PlayStation 5,Racing,Arcadia Interactive,2015,0.29,0.21,0.14,0.27,0.91
+GM0273,Shadow Strike 0273,Nintendo Switch,Action,NextLevel Entertainment,2017,0.19,0.16,0.02,0.08,0.45
+GM0274,Empire Architect 0274,PC,Strategy,Pixel Studios,2018,0.61,0.66,0.3,0.33,1.9
+GM0275,Kingdom Quest 0275,Mobile,Role-Playing,Nova Games,2017,0.92,0.62,0.2,0.4,2.14
+GM0276,Racing Champions 0276,PlayStation 5,Sports,Arcadia Interactive,2019,0.22,0.17,0.03,0.16,0.58
+GM0277,Dragon Crown 0277,PlayStation 4,Role-Playing,NextLevel Entertainment,2025,0.16,0.11,0.06,0.05,0.38
+GM0278,Starborn Saga 0278,Xbox Series X|S,Role-Playing,RedFox Publishing,2019,0.15,0.16,0.07,0.07,0.45
+GM0279,Rogue Battalion 0279,Xbox Series X|S,Action,NextLevel Entertainment,2017,0.06,0.06,0.03,0.03,0.18
+GM0280,Steel Horizon 0280,Xbox Series X|S,Action,RedFox Publishing,2020,0.19,0.17,0.05,0.12,0.53
+GM0281,Tactical Dominion 0281,Mobile,Strategy,Arcadia Interactive,2024,0.19,0.14,0.08,0.21,0.62
+GM0282,Rogue Battalion 0282,PC,Action,NextLevel Entertainment,2017,0.35,0.27,0.04,0.13,0.79
+GM0283,Steel Horizon 0283,Nintendo Switch,Action,BluePeak Digital,2016,0.27,0.18,0.05,0.26,0.76
+GM0284,Combat Legends 0284,Xbox One,Fighting,Arcadia Interactive,2023,0.47,0.28,0.1,0.31,1.16
+GM0285,Farmstead Life 0285,PC,Simulation,Nova Games,2024,2.2,1.17,0.55,0.72,4.64
+GM0286,Shadow Duel 0286,PlayStation 4,Fighting,Pixel Studios,2018,0.22,0.19,0.08,0.04,0.53
+GM0287,Flight Academy 0287,PlayStation 4,Simulation,Orbit Works,2018,0.15,0.1,0.02,0.16,0.43
+GM0288,Chronicles of Ember 0288,Mobile,Role-Playing,RedFox Publishing,2022,0.7,0.64,0.29,0.28,1.91
+GM0289,Turbo Circuit 0289,PC,Racing,Pixel Studios,2015,0.21,0.1,0.03,0.11,0.45
+GM0290,Kingdom Quest 0290,Xbox Series X|S,Role-Playing,Pixel Studios,2020,0.51,0.29,0.22,0.28,1.3
+GM0291,Rogue Battalion 0291,PC,Action,Pixel Studios,2020,0.28,0.21,0.09,0.07,0.65
+GM0292,The Forgotten Map 0292,PlayStation 5,Adventure,Pixel Studios,2015,0.22,0.13,0.02,0.2,0.57
+GM0293,Neon Rebellion 0293,PlayStation 4,Action,Pixel Studios,2015,0.15,0.09,0.02,0.06,0.32
+GM0294,The Clockwork Room 0294,PlayStation 4,Puzzle,Orbit Works,2016,0.27,0.2,0.05,0.22,0.74
+GM0295,Rogue Battalion 0295,PlayStation 4,Action,NextLevel Entertainment,2019,0.54,0.29,0.17,0.26,1.26
+GM0296,The Clockwork Room 0296,Mobile,Puzzle,NextLevel Entertainment,2023,0.06,0.06,0.02,0.02,0.16
+GM0297,Final Round 0297,Mobile,Fighting,Vertex Play,2019,0.47,0.34,0.14,0.07,1.02
+GM0298,Empire Architect 0298,Mobile,Strategy,Vertex Play,2017,0.09,0.07,0.04,0.09,0.29
+GM0299,Echoes of Avalon 0299,Nintendo Switch,Adventure,Orbit Works,2020,0.1,0.07,0.02,0.08,0.27
+GM0300,Pro League 26 0300,Nintendo Switch,Sports,RedFox Publishing,2016,0.27,0.21,0.11,0.06,0.65
+GM0301,Target Lock 0301,Nintendo Switch,Shooter,Orbit Works,2023,0.15,0.11,0.02,0.09,0.37
+GM0302,World Cup Challenge 0302,Xbox Series X|S,Sports,RedFox Publishing,2015,0.09,0.05,0.02,0.05,0.21
+GM0303,The Forgotten Map 0303,PC,Adventure,Orbit Works,2019,0.18,0.1,0.07,0.08,0.43
+GM0304,Rogue Battalion 0304,Nintendo Switch,Action,BluePeak Digital,2019,0.72,0.64,0.38,0.53,2.27
+GM0305,Court Masters 0305,Nintendo Switch,Sports,BluePeak Digital,2015,0.27,0.22,0.04,0.22,0.75
+GM0306,Target Lock 0306,PC,Shooter,NextLevel Entertainment,2018,0.74,0.68,0.27,0.25,1.94
+GM0307,Chronicles of Ember 0307,Xbox Series X|S,Role-Playing,Pixel Studios,2025,0.14,0.08,0.06,0.06,0.34
+GM0308,Tactical Dominion 0308,PlayStation 4,Strategy,Orbit Works,2016,0.13,0.12,0.07,0.08,0.4
+GM0309,Frontline Zero 0309,Xbox One,Shooter,Orbit Works,2025,0.39,0.29,0.04,0.17,0.89
+GM0310,Frontline Zero 0310,Xbox Series X|S,Shooter,Nova Games,2018,0.05,0.05,0.02,0.02,0.14
+GM0311,Court Masters 0311,Nintendo Switch,Sports,Vertex Play,2019,0.18,0.14,0.06,0.08,0.46
+GM0312,Nightfall Protocol 0312,Xbox Series X|S,Action,Orbit Works,2019,0.59,0.42,0.14,0.48,1.63
+GM0313,Legends of Aether 0313,PlayStation 5,Role-Playing,NextLevel Entertainment,2015,0.64,0.49,0.2,0.19,1.52
+GM0314,Iron Fist League 0314,Mobile,Fighting,RedFox Publishing,2021,0.63,0.44,0.12,0.13,1.32
+GM0315,Deep Space Engineer 0315,Xbox One,Simulation,Vertex Play,2025,0.15,0.14,0.05,0.11,0.45
+GM0316,Chronicles of Ember 0316,PC,Role-Playing,Orbit Works,2023,0.73,0.46,0.09,0.45,1.73
+GM0317,Legends of Aether 0317,PlayStation 4,Role-Playing,BluePeak Digital,2020,0.29,0.18,0.1,0.06,0.63
+GM0318,Galaxy Tactician 0318,PC,Strategy,NextLevel Entertainment,2023,0.05,0.04,0.02,0.02,0.13
+GM0319,Steel Horizon 0319,PlayStation 4,Action,Vertex Play,2017,0.19,0.12,0.05,0.06,0.42
+GM0320,Lost Kingdom 0320,PC,Adventure,Orbit Works,2018,0.55,0.36,0.18,0.16,1.25
+GM0321,Neon Rebellion 0321,PlayStation 4,Action,RedFox Publishing,2021,0.29,0.29,0.14,0.25,0.97
+GM0322,Iron Fist League 0322,Nintendo Switch,Fighting,NextLevel Entertainment,2015,0.41,0.37,0.1,0.3,1.18
+GM0323,Rogue Battalion 0323,Xbox Series X|S,Action,Orbit Works,2017,1.22,0.91,0.31,0.66,3.1
+GM0324,Farmstead Life 0324,PlayStation 4,Simulation,Vertex Play,2020,0.48,0.35,0.04,0.17,1.04
+GM0325,Echoes of Avalon 0325,PlayStation 5,Adventure,Nova Games,2024,0.43,0.33,0.09,0.15,1.0
+GM0326,Galaxy Tactician 0326,Xbox One,Strategy,Nova Games,2025,0.21,0.19,0.04,0.16,0.6
+GM0327,City Builder X 0327,PlayStation 5,Simulation,Pixel Studios,2025,0.36,0.24,0.14,0.11,0.85
+GM0328,Nitro Horizon 0328,PC,Racing,Pixel Studios,2016,0.31,0.24,0.12,0.03,0.7
+GM0329,Chronicles of Ember 0329,PlayStation 5,Role-Playing,Nova Games,2023,0.55,0.31,0.05,0.26,1.17
+GM0330,City Builder X 0330,Nintendo Switch,Simulation,Vertex Play,2017,1.09,1.02,0.22,0.53,2.86
+GM0331,Steel Horizon 0331,Nintendo Switch,Action,Orbit Works,2020,0.82,0.44,0.28,0.36,1.9
+GM0332,Steel Horizon 0332,Xbox One,Action,Arcadia Interactive,2020,0.27,0.22,0.03,0.13,0.65
+GM0333,Frontline Zero 0333,PC,Shooter,RedFox Publishing,2022,0.29,0.21,0.08,0.05,0.63
+GM0334,Mind Maze 0334,PC,Puzzle,Nova Games,2017,0.18,0.15,0.07,0.08,0.48
+GM0335,Frontier Command 0335,PlayStation 4,Strategy,Vertex Play,2016,0.56,0.56,0.08,0.61,1.81
+GM0336,Target Lock 0336,Nintendo Switch,Shooter,NextLevel Entertainment,2025,1.4,1.01,0.33,0.56,3.3
+GM0337,Auto Workshop Sim 0337,PlayStation 4,Simulation,RedFox Publishing,2017,0.92,0.44,0.25,0.32,1.93
+GM0338,Rogue Battalion 0338,Nintendo Switch,Action,Arcadia Interactive,2016,0.56,0.4,0.17,0.42,1.55
+GM0339,Drift Republic 0339,PlayStation 4,Racing,NextLevel Entertainment,2016,0.21,0.19,0.06,0.1,0.56
+GM0340,Rogue Battalion 0340,Xbox One,Action,Nova Games,2016,0.3,0.25,0.11,0.09,0.75
+GM0341,Iron Fist League 0341,Mobile,Fighting,NextLevel Entertainment,2025,0.17,0.14,0.06,0.13,0.5
+GM0342,Iron Realms 0342,Xbox One,Strategy,BluePeak Digital,2022,0.15,0.12,0.03,0.04,0.34
+GM0343,Speed Legends 0343,PC,Racing,Arcadia Interactive,2022,0.06,0.03,0.02,0.03,0.14
+GM0344,Skybound Journey 0344,PlayStation 5,Adventure,NextLevel Entertainment,2020,0.16,0.12,0.04,0.03,0.35
+GM0345,The Clockwork Room 0345,PlayStation 4,Puzzle,Arcadia Interactive,2022,0.28,0.24,0.1,0.07,0.69
+GM0346,Target Lock 0346,PC,Shooter,Arcadia Interactive,2016,0.29,0.19,0.06,0.1,0.64
+GM0347,Shadow Duel 0347,PlayStation 5,Fighting,BluePeak Digital,2019,0.27,0.23,0.11,0.12,0.73
+GM0348,Starborn Saga 0348,Nintendo Switch,Role-Playing,NextLevel Entertainment,2018,0.08,0.07,0.01,0.03,0.19
+GM0349,Farmstead Life 0349,Xbox Series X|S,Simulation,BluePeak Digital,2016,0.51,0.45,0.18,0.13,1.27
+GM0350,Deep Space Engineer 0350,PlayStation 5,Simulation,RedFox Publishing,2015,0.21,0.2,0.04,0.19,0.64
+GM0351,Crystal Logic 0351,Mobile,Puzzle,Orbit Works,2017,0.69,0.63,0.09,0.54,1.95
+GM0352,Critical Impact 0352,Xbox Series X|S,Shooter,NextLevel Entertainment,2025,0.53,0.4,0.1,0.18,1.21
+GM0353,Auto Workshop Sim 0353,PlayStation 4,Simulation,BluePeak Digital,2023,0.63,0.57,0.26,0.39,1.85
+GM0354,Starborn Saga 0354,Xbox Series X|S,Role-Playing,NextLevel Entertainment,2018,0.26,0.15,0.04,0.16,0.61
+GM0355,Drift Republic 0355,PC,Racing,Orbit Works,2023,0.25,0.12,0.06,0.12,0.55
+GM0356,Arena Clash 0356,PC,Fighting,BluePeak Digital,2024,0.51,0.4,0.12,0.29,1.32
+GM0357,Puzzle Planet 0357,Xbox Series X|S,Puzzle,Arcadia Interactive,2023,0.06,0.04,0.01,0.04,0.15
+GM0358,Echoes of Avalon 0358,Xbox One,Adventure,BluePeak Digital,2020,0.4,0.32,0.13,0.14,0.99
+GM0359,Nightfall Protocol 0359,PlayStation 4,Action,NextLevel Entertainment,2015,0.71,0.54,0.14,0.14,1.53
+GM0360,Velocity Rush 0360,PC,Racing,BluePeak Digital,2023,0.57,0.64,0.12,0.52,1.85
+GM0361,Speed Legends 0361,PC,Racing,Nova Games,2025,0.3,0.24,0.14,0.08,0.76
+GM0362,Mind Maze 0362,Xbox One,Puzzle,Arcadia Interactive,2015,0.12,0.09,0.06,0.12,0.39
+GM0363,Nitro Horizon 0363,Nintendo Switch,Racing,Orbit Works,2021,0.18,0.1,0.06,0.12,0.46
+GM0364,Nitro Horizon 0364,PC,Racing,Nova Games,2016,0.17,0.15,0.06,0.1,0.48
+GM0365,Chronicles of Ember 0365,PlayStation 4,Role-Playing,Nova Games,2022,0.25,0.19,0.09,0.04,0.57
+GM0366,Dragon Crown 0366,PlayStation 5,Role-Playing,BluePeak Digital,2015,0.38,0.26,0.15,0.39,1.18
+GM0367,Speed Legends 0367,PlayStation 5,Racing,BluePeak Digital,2018,0.22,0.14,0.04,0.17,0.57
+GM0368,Frontline Zero 0368,PC,Shooter,Nova Games,2023,0.35,0.23,0.05,0.36,0.99
+GM0369,Auto Workshop Sim 0369,Mobile,Simulation,BluePeak Digital,2017,0.22,0.15,0.04,0.22,0.63
+GM0370,Racing Champions 0370,Xbox Series X|S,Sports,Orbit Works,2024,0.13,0.1,0.02,0.04,0.29
+GM0371,Dragon Crown 0371,Xbox One,Role-Playing,RedFox Publishing,2019,0.65,0.52,0.16,0.18,1.51
+GM0372,Legends of Aether 0372,PlayStation 4,Role-Playing,Pixel Studios,2017,0.44,0.42,0.21,0.19,1.26
+GM0373,Lost Kingdom 0373,Xbox One,Adventure,Nova Games,2023,0.85,0.69,0.15,0.42,2.11
+GM0374,Nightfall Protocol 0374,Xbox Series X|S,Action,Vertex Play,2025,0.71,0.69,0.3,0.4,2.1
+GM0375,Chronicles of Ember 0375,Xbox Series X|S,Role-Playing,Pixel Studios,2021,0.48,0.43,0.17,0.37,1.45
+GM0376,Frontline Zero 0376,Xbox One,Shooter,Vertex Play,2020,0.18,0.17,0.06,0.12,0.53
+GM0377,The Clockwork Room 0377,PlayStation 4,Puzzle,Vertex Play,2015,0.29,0.2,0.08,0.1,0.67
+GM0378,Chronicles of Ember 0378,PlayStation 4,Role-Playing,Pixel Studios,2023,0.26,0.15,0.09,0.08,0.58
+GM0379,Critical Impact 0379,Xbox Series X|S,Shooter,Arcadia Interactive,2022,0.43,0.35,0.18,0.33,1.29
+GM0380,Steel Horizon 0380,PlayStation 4,Action,BluePeak Digital,2016,0.34,0.24,0.16,0.26,1.0
+GM0381,Shadow Strike 0381,PC,Action,Arcadia Interactive,2017,0.51,0.29,0.1,0.37,1.27
+GM0382,Skybound Journey 0382,Xbox Series X|S,Adventure,Nova Games,2025,0.11,0.08,0.02,0.07,0.28
+GM0383,Ultimate Striker 0383,Nintendo Switch,Sports,Arcadia Interactive,2024,0.54,0.33,0.13,0.25,1.25
+GM0384,Frontier Command 0384,PlayStation 4,Strategy,Arcadia Interactive,2016,0.73,0.76,0.27,0.44,2.2
+GM0385,Target Lock 0385,Xbox Series X|S,Shooter,Pixel Studios,2016,0.35,0.28,0.14,0.08,0.85
+GM0386,The Clockwork Room 0386,Xbox Series X|S,Puzzle,BluePeak Digital,2015,0.34,0.21,0.11,0.07,0.73
+GM0387,Starborn Saga 0387,PC,Role-Playing,Arcadia Interactive,2019,0.43,0.25,0.15,0.12,0.95
+GM0388,Ultimate Striker 0388,PC,Sports,Nova Games,2024,0.39,0.27,0.16,0.25,1.07
+GM0389,Pro League 26 0389,PC,Sports,Orbit Works,2019,0.81,0.57,0.3,0.53,2.21
+GM0390,The Clockwork Room 0390,Xbox Series X|S,Puzzle,Vertex Play,2017,0.11,0.08,0.03,0.09,0.31
+GM0391,Farmstead Life 0391,Nintendo Switch,Simulation,Pixel Studios,2018,0.14,0.11,0.04,0.14,0.43
+GM0392,Starborn Saga 0392,Xbox Series X|S,Role-Playing,Nova Games,2017,0.24,0.18,0.06,0.06,0.54
+GM0393,Empire Architect 0393,PC,Strategy,NextLevel Entertainment,2020,0.42,0.3,0.17,0.09,0.98
+GM0394,Phantom Ops 0394,PlayStation 4,Shooter,NextLevel Entertainment,2025,1.52,1.5,0.51,1.01,4.54
+GM0395,Deep Space Engineer 0395,PC,Simulation,Nova Games,2020,0.45,0.37,0.14,0.26,1.22
+GM0396,City Builder X 0396,Mobile,Simulation,Orbit Works,2023,0.63,0.34,0.17,0.19,1.33
+GM0397,Skybound Journey 0397,Xbox Series X|S,Adventure,Orbit Works,2017,0.19,0.16,0.1,0.15,0.6
+GM0398,Puzzle Planet 0398,Nintendo Switch,Puzzle,Orbit Works,2022,1.25,0.75,0.28,0.37,2.65
+GM0399,Empire Architect 0399,PlayStation 4,Strategy,Orbit Works,2016,0.1,0.09,0.04,0.06,0.29
+GM0400,Racing Champions 0400,Xbox Series X|S,Sports,Nova Games,2019,0.23,0.18,0.03,0.1,0.54
+GM0401,Combat Legends 0401,PlayStation 5,Fighting,NextLevel Entertainment,2024,0.38,0.3,0.06,0.14,0.88
+GM0402,Echoes of Avalon 0402,Nintendo Switch,Adventure,BluePeak Digital,2017,0.35,0.39,0.12,0.25,1.11
+GM0403,Neon Rebellion 0403,Mobile,Action,Vertex Play,2020,0.57,0.41,0.16,0.05,1.19
+GM0404,Nitro Horizon 0404,PlayStation 5,Racing,NextLevel Entertainment,2024,0.11,0.1,0.01,0.07,0.29
+GM0405,Dragon Crown 0405,PlayStation 4,Role-Playing,Pixel Studios,2023,0.28,0.23,0.11,0.31,0.93
+GM0406,Starborn Saga 0406,Nintendo Switch,Role-Playing,Arcadia Interactive,2023,0.29,0.16,0.04,0.12,0.61
+GM0407,Court Masters 0407,Xbox One,Sports,BluePeak Digital,2020,0.54,0.39,0.19,0.5,1.62
+GM0408,Lost Kingdom 0408,Xbox One,Adventure,NextLevel Entertainment,2023,0.21,0.23,0.04,0.17,0.65
+GM0409,Crystal Logic 0409,PlayStation 4,Puzzle,Arcadia Interactive,2025,0.31,0.18,0.08,0.12,0.69
+GM0410,Drift Republic 0410,PC,Racing,Arcadia Interactive,2015,0.18,0.09,0.06,0.07,0.4
+GM0411,The Forgotten Map 0411,Xbox Series X|S,Adventure,Orbit Works,2020,0.11,0.07,0.04,0.05,0.27
+GM0412,Starborn Saga 0412,PlayStation 4,Role-Playing,Vertex Play,2016,0.31,0.18,0.05,0.21,0.75
+GM0413,Puzzle Planet 0413,PlayStation 4,Puzzle,RedFox Publishing,2016,0.07,0.06,0.03,0.04,0.2
+GM0414,Iron Realms 0414,PlayStation 5,Strategy,Vertex Play,2020,0.61,0.39,0.26,0.35,1.61
+GM0415,Steel Horizon 0415,Xbox One,Action,Pixel Studios,2018,0.16,0.18,0.06,0.12,0.52
+GM0416,Rogue Battalion 0416,Xbox Series X|S,Action,Pixel Studios,2016,0.25,0.21,0.05,0.09,0.6
+GM0417,The Forgotten Map 0417,PlayStation 4,Adventure,Arcadia Interactive,2017,0.26,0.23,0.14,0.22,0.85
+GM0418,Phantom Ops 0418,Mobile,Shooter,Orbit Works,2023,0.03,0.02,0.01,0.01,0.07
+GM0419,Galaxy Tactician 0419,PlayStation 4,Strategy,Orbit Works,2020,0.22,0.18,0.07,0.23,0.7
+GM0420,Shadow Strike 0420,PC,Action,Arcadia Interactive,2020,0.24,0.16,0.08,0.08,0.56
+GM0421,Chronicles of Ember 0421,Nintendo Switch,Role-Playing,NextLevel Entertainment,2015,0.41,0.25,0.07,0.16,0.89
+GM0422,Auto Workshop Sim 0422,Nintendo Switch,Simulation,NextLevel Entertainment,2019,0.04,0.04,0.01,0.02,0.11
+GM0423,Flight Academy 0423,PlayStation 5,Simulation,Orbit Works,2021,0.27,0.18,0.05,0.13,0.63
+GM0424,Neon Rebellion 0424,PC,Action,Pixel Studios,2019,0.14,0.08,0.02,0.08,0.32
+GM0425,Velocity Rush 0425,PlayStation 4,Racing,Vertex Play,2020,0.23,0.21,0.11,0.08,0.63
+GM0426,Rogue Battalion 0426,PC,Action,Vertex Play,2017,0.08,0.07,0.01,0.05,0.21
+GM0427,Pro League 26 0427,Xbox Series X|S,Sports,NextLevel Entertainment,2022,1.28,0.76,0.34,0.82,3.2
+GM0428,Legends of Aether 0428,Mobile,Role-Playing,NextLevel Entertainment,2016,0.11,0.12,0.04,0.09,0.36
+GM0429,Ultimate Striker 0429,PC,Sports,Nova Games,2024,0.9,0.6,0.12,0.59,2.21
+GM0430,Shadow Strike 0430,Xbox One,Action,BluePeak Digital,2025,0.13,0.11,0.02,0.13,0.39
+GM0431,Racing Champions 0431,Mobile,Sports,BluePeak Digital,2022,0.13,0.09,0.05,0.11,0.38
+GM0432,Nitro Horizon 0432,Xbox One,Racing,NextLevel Entertainment,2024,0.16,0.09,0.06,0.06,0.37
+GM0433,Target Lock 0433,PC,Shooter,Arcadia Interactive,2022,0.27,0.16,0.1,0.21,0.74
+GM0434,Dragon Crown 0434,Mobile,Role-Playing,BluePeak Digital,2024,0.09,0.06,0.02,0.04,0.21
+GM0435,Drift Republic 0435,Nintendo Switch,Racing,Arcadia Interactive,2024,0.16,0.11,0.06,0.12,0.45
+GM0436,Steel Horizon 0436,PC,Action,Nova Games,2018,0.16,0.16,0.05,0.15,0.52
+GM0437,World Cup Challenge 0437,Xbox One,Sports,Orbit Works,2015,0.13,0.15,0.03,0.11,0.42
+GM0438,Speed Legends 0438,PlayStation 4,Racing,Nova Games,2020,1.21,0.88,0.45,0.69,3.23
+GM0439,Orbital Strike 0439,Xbox Series X|S,Shooter,Pixel Studios,2019,0.17,0.1,0.03,0.13,0.43
+GM0440,Dragon Crown 0440,Xbox Series X|S,Role-Playing,NextLevel Entertainment,2024,0.54,0.35,0.07,0.29,1.25
+GM0441,Tactical Dominion 0441,Xbox One,Strategy,RedFox Publishing,2016,0.11,0.08,0.02,0.09,0.3
+GM0442,Combat Legends 0442,Mobile,Fighting,BluePeak Digital,2023,0.63,0.57,0.17,0.36,1.73
+GM0443,Deep Space Engineer 0443,PlayStation 5,Simulation,NextLevel Entertainment,2021,0.27,0.23,0.08,0.06,0.64
+GM0444,Velocity Rush 0444,PC,Racing,NextLevel Entertainment,2018,1.19,1.01,0.4,0.8,3.4
+GM0445,Frontline Zero 0445,PC,Shooter,Vertex Play,2020,0.25,0.14,0.04,0.11,0.54
+GM0446,Starborn Saga 0446,PlayStation 4,Role-Playing,NextLevel Entertainment,2016,1.54,1.56,0.64,0.92,4.66
+GM0447,Speed Legends 0447,Xbox Series X|S,Racing,Orbit Works,2015,0.44,0.32,0.21,0.43,1.4
+GM0448,Chronicles of Ember 0448,PlayStation 4,Role-Playing,Pixel Studios,2018,0.49,0.33,0.15,0.28,1.25
+GM0449,Dragon Crown 0449,PC,Role-Playing,RedFox Publishing,2022,0.8,0.71,0.38,0.64,2.53
+GM0450,Nightfall Protocol 0450,PC,Action,Nova Games,2023,0.39,0.33,0.06,0.22,1.0
+GM0451,Neon Rebellion 0451,PlayStation 5,Action,RedFox Publishing,2025,0.82,0.5,0.13,0.26,1.71
+GM0452,Skybound Journey 0452,PlayStation 5,Adventure,Pixel Studios,2016,0.46,0.34,0.16,0.32,1.28
+GM0453,Nightfall Protocol 0453,PC,Action,BluePeak Digital,2024,0.77,0.42,0.23,0.24,1.66
+GM0454,Shadow Strike 0454,PC,Action,Nova Games,2018,0.11,0.09,0.04,0.12,0.36
+GM0455,Mystic Trails 0455,Nintendo Switch,Adventure,Vertex Play,2024,0.51,0.27,0.15,0.28,1.21
+GM0456,City Builder X 0456,PlayStation 5,Simulation,Nova Games,2019,0.06,0.05,0.03,0.03,0.17
+GM0457,Nightfall Protocol 0457,Xbox One,Action,BluePeak Digital,2016,0.42,0.41,0.06,0.25,1.14
+GM0458,Starborn Saga 0458,Xbox Series X|S,Role-Playing,Arcadia Interactive,2018,0.41,0.2,0.07,0.21,0.89
+GM0459,Velocity Rush 0459,PlayStation 4,Racing,Arcadia Interactive,2015,0.21,0.13,0.09,0.08,0.51
+GM0460,Speed Legends 0460,Xbox One,Racing,RedFox Publishing,2015,0.12,0.08,0.05,0.08,0.33
+GM0461,Nitro Horizon 0461,Nintendo Switch,Racing,NextLevel Entertainment,2021,0.22,0.16,0.04,0.04,0.46
+GM0462,Turbo Circuit 0462,Xbox One,Racing,NextLevel Entertainment,2017,0.1,0.06,0.04,0.05,0.25
+GM0463,Shadow Duel 0463,Xbox One,Fighting,Arcadia Interactive,2020,0.07,0.04,0.03,0.03,0.17
+GM0464,Shadow Strike 0464,Nintendo Switch,Action,RedFox Publishing,2021,0.15,0.1,0.05,0.03,0.33
+GM0465,Steel Horizon 0465,PC,Action,Arcadia Interactive,2015,0.92,0.79,0.19,0.74,2.64
+GM0466,Lost Kingdom 0466,PlayStation 4,Adventure,Vertex Play,2017,0.35,0.22,0.13,0.11,0.81
+GM0467,Turbo Circuit 0467,PC,Racing,NextLevel Entertainment,2015,0.07,0.05,0.01,0.07,0.2
+GM0468,Combat Legends 0468,Nintendo Switch,Fighting,Vertex Play,2020,0.17,0.14,0.06,0.05,0.42
+GM0469,World Cup Challenge 0469,Xbox Series X|S,Sports,Nova Games,2023,0.14,0.11,0.02,0.04,0.31
+GM0470,Speed Legends 0470,Xbox Series X|S,Racing,Nova Games,2018,0.14,0.14,0.04,0.08,0.4
+GM0471,World Cup Challenge 0471,Mobile,Sports,Arcadia Interactive,2022,0.76,0.42,0.26,0.33,1.77
+GM0472,Final Round 0472,PC,Fighting,RedFox Publishing,2020,0.27,0.22,0.05,0.14,0.68
+GM0473,Racing Champions 0473,PlayStation 5,Sports,Arcadia Interactive,2016,0.49,0.37,0.2,0.08,1.14
+GM0474,Frontier Command 0474,PlayStation 4,Strategy,RedFox Publishing,2015,0.28,0.29,0.06,0.23,0.86
+GM0475,Auto Workshop Sim 0475,PlayStation 5,Simulation,Vertex Play,2019,0.28,0.21,0.11,0.26,0.86
+GM0476,Skybound Journey 0476,PlayStation 4,Adventure,Vertex Play,2023,1.13,0.73,0.38,0.66,2.9
+GM0477,Court Masters 0477,PC,Sports,Nova Games,2018,0.79,0.64,0.13,0.35,1.91
+GM0478,Lost Kingdom 0478,Xbox One,Adventure,Nova Games,2017,1.41,0.82,0.53,0.37,3.13
+GM0479,Rogue Battalion 0479,Mobile,Action,Arcadia Interactive,2025,0.16,0.11,0.04,0.06,0.37
+GM0480,Final Round 0480,PlayStation 4,Fighting,Nova Games,2016,0.58,0.42,0.18,0.07,1.25
+GM0481,Critical Impact 0481,PlayStation 5,Shooter,Arcadia Interactive,2016,0.62,0.46,0.21,0.27,1.56
+GM0482,Empire Architect 0482,Xbox Series X|S,Strategy,Pixel Studios,2022,0.66,0.48,0.15,0.21,1.5
+GM0483,Orbital Strike 0483,Xbox Series X|S,Shooter,BluePeak Digital,2017,0.54,0.36,0.19,0.16,1.25
+GM0484,Frontline Zero 0484,Xbox One,Shooter,NextLevel Entertainment,2015,0.13,0.09,0.02,0.05,0.29
+GM0485,Iron Realms 0485,PlayStation 4,Strategy,BluePeak Digital,2020,0.28,0.23,0.07,0.34,0.92
+GM0486,Puzzle Planet 0486,PlayStation 5,Puzzle,BluePeak Digital,2015,0.09,0.07,0.04,0.04,0.24
+GM0487,Frontline Zero 0487,PlayStation 4,Shooter,BluePeak Digital,2025,0.36,0.28,0.07,0.46,1.17
+GM0488,World Cup Challenge 0488,Mobile,Sports,Vertex Play,2021,0.32,0.23,0.03,0.18,0.76
+GM0489,Velocity Rush 0489,Nintendo Switch,Racing,BluePeak Digital,2016,0.51,0.6,0.21,0.35,1.67
+GM0490,Target Lock 0490,Xbox Series X|S,Shooter,Arcadia Interactive,2024,0.06,0.04,0.01,0.04,0.15
+GM0491,Orbital Strike 0491,PlayStation 4,Shooter,Orbit Works,2018,0.41,0.25,0.08,0.38,1.12
+GM0492,Neon Rebellion 0492,PC,Action,Vertex Play,2023,0.21,0.19,0.05,0.1,0.55
+GM0493,Kingdom Quest 0493,Nintendo Switch,Role-Playing,Arcadia Interactive,2018,0.69,0.47,0.07,0.38,1.61
+GM0494,Final Round 0494,Nintendo Switch,Fighting,BluePeak Digital,2022,0.97,1.04,0.41,0.77,3.19
+GM0495,Echoes of Avalon 0495,PlayStation 5,Adventure,Orbit Works,2023,0.19,0.15,0.05,0.22,0.61
+GM0496,Neon Rebellion 0496,Xbox Series X|S,Action,Pixel Studios,2018,0.38,0.39,0.17,0.16,1.1
+GM0497,Turbo Circuit 0497,PC,Racing,BluePeak Digital,2023,0.29,0.24,0.04,0.19,0.76
+GM0498,Rogue Battalion 0498,PlayStation 4,Action,Vertex Play,2024,0.31,0.3,0.14,0.17,0.92
+GM0499,Rogue Battalion 0499,Xbox Series X|S,Action,Pixel Studios,2022,0.19,0.15,0.05,0.07,0.46
+GM0500,Shadow Duel 0500,Nintendo Switch,Fighting,Orbit Works,2020,0.17,0.13,0.06,0.03,0.39
+GM0501,Pro League 26 0501,PC,Sports,Pixel Studios,2020,0.26,0.2,0.09,0.2,0.75
+GM0502,Drift Republic 0502,Nintendo Switch,Racing,Pixel Studios,2020,0.27,0.22,0.09,0.18,0.76
+GM0503,Echoes of Avalon 0503,Xbox Series X|S,Adventure,Vertex Play,2021,0.15,0.1,0.06,0.04,0.35
+GM0504,Velocity Rush 0504,Xbox Series X|S,Racing,NextLevel Entertainment,2017,0.4,0.26,0.09,0.11,0.86
+GM0505,Iron Realms 0505,PlayStation 5,Strategy,Pixel Studios,2022,2.15,1.69,0.77,1.23,5.84
+GM0506,Steel Horizon 0506,Mobile,Action,Nova Games,2017,0.42,0.37,0.12,0.29,1.2
+GM0507,The Forgotten Map 0507,PlayStation 5,Adventure,Orbit Works,2021,0.58,0.44,0.06,0.21,1.29
+GM0508,Critical Impact 0508,PC,Shooter,BluePeak Digital,2016,0.1,0.07,0.02,0.07,0.26
+GM0509,Starborn Saga 0509,PlayStation 5,Role-Playing,Arcadia Interactive,2022,0.16,0.1,0.03,0.06,0.35
+GM0510,Dragon Crown 0510,PC,Role-Playing,Pixel Studios,2025,0.52,0.25,0.14,0.17,1.08
+GM0511,Court Masters 0511,Mobile,Sports,RedFox Publishing,2024,0.12,0.08,0.03,0.07,0.3
+GM0512,Mystic Trails 0512,PC,Adventure,Vertex Play,2018,0.56,0.36,0.05,0.23,1.2
+GM0513,Rogue Battalion 0513,Xbox One,Action,Pixel Studios,2024,0.31,0.3,0.17,0.16,0.94
+GM0514,Iron Fist League 0514,PlayStation 4,Fighting,Pixel Studios,2023,0.33,0.16,0.09,0.12,0.7
+GM0515,Puzzle Planet 0515,Xbox Series X|S,Puzzle,BluePeak Digital,2023,0.45,0.33,0.16,0.21,1.15
+GM0516,Racing Champions 0516,PlayStation 5,Sports,Nova Games,2024,1.67,0.95,0.44,1.1,4.16
+GM0517,Shadow Strike 0517,Xbox One,Action,Orbit Works,2024,0.09,0.06,0.04,0.08,0.27
+GM0518,Mystic Trails 0518,PlayStation 5,Adventure,Orbit Works,2015,0.91,0.63,0.26,0.16,1.96
+GM0519,Dragon Crown 0519,PlayStation 5,Role-Playing,NextLevel Entertainment,2022,0.13,0.15,0.08,0.07,0.43
+GM0520,Frontier Command 0520,Nintendo Switch,Strategy,RedFox Publishing,2021,0.13,0.08,0.05,0.06,0.32
+GM0521,Legends of Aether 0521,Nintendo Switch,Role-Playing,Pixel Studios,2015,0.13,0.12,0.05,0.06,0.36
+GM0522,Drift Republic 0522,Xbox One,Racing,RedFox Publishing,2022,0.13,0.09,0.05,0.07,0.34
+GM0523,Legends of Aether 0523,Mobile,Role-Playing,Nova Games,2016,1.78,1.06,0.64,0.3,3.78
+GM0524,Orbital Strike 0524,PlayStation 5,Shooter,Pixel Studios,2019,0.72,0.53,0.23,0.15,1.63
+GM0525,Frontier Command 0525,Xbox Series X|S,Strategy,Arcadia Interactive,2020,0.35,0.17,0.04,0.21,0.77
+GM0526,Rogue Battalion 0526,PlayStation 4,Action,Orbit Works,2019,2.13,1.4,0.63,0.36,4.52
+GM0527,Neon Rebellion 0527,PC,Action,Arcadia Interactive,2016,0.57,0.52,0.19,0.2,1.48
+GM0528,Orbital Strike 0528,Nintendo Switch,Shooter,BluePeak Digital,2019,0.65,0.41,0.31,0.43,1.8
+GM0529,Skybound Journey 0529,PC,Adventure,NextLevel Entertainment,2024,0.19,0.17,0.06,0.16,0.58
+GM0530,Empire Architect 0530,Mobile,Strategy,Orbit Works,2016,0.64,0.62,0.28,0.59,2.13
+GM0531,Shadow Strike 0531,Xbox One,Action,Orbit Works,2017,0.52,0.32,0.11,0.16,1.11
+GM0532,Critical Impact 0532,Xbox Series X|S,Shooter,Nova Games,2021,0.43,0.25,0.12,0.12,0.92
+GM0533,Pro League 26 0533,PlayStation 4,Sports,BluePeak Digital,2016,0.24,0.21,0.08,0.07,0.6
+GM0534,Chronicles of Ember 0534,Mobile,Role-Playing,BluePeak Digital,2022,0.07,0.04,0.01,0.04,0.16
+GM0535,Deep Space Engineer 0535,PlayStation 5,Simulation,RedFox Publishing,2016,0.83,0.76,0.33,0.22,2.14
+GM0536,Arena Clash 0536,PC,Fighting,Nova Games,2020,0.49,0.4,0.07,0.2,1.16
+GM0537,Speed Legends 0537,PC,Racing,Arcadia Interactive,2022,0.58,0.28,0.17,0.21,1.24
+GM0538,Steel Horizon 0538,Xbox One,Action,Orbit Works,2016,0.32,0.27,0.04,0.16,0.79
+GM0539,Nitro Horizon 0539,PlayStation 5,Racing,NextLevel Entertainment,2021,0.09,0.06,0.01,0.05,0.21
+GM0540,Deep Space Engineer 0540,PC,Simulation,NextLevel Entertainment,2015,0.23,0.17,0.07,0.24,0.71
+GM0541,Deep Space Engineer 0541,PC,Simulation,NextLevel Entertainment,2024,1.14,0.58,0.28,0.6,2.6
+GM0542,Steel Horizon 0542,Mobile,Action,Orbit Works,2021,1.29,0.8,0.2,1.06,3.35
+GM0543,Chronicles of Ember 0543,PlayStation 4,Role-Playing,Arcadia Interactive,2024,0.99,0.71,0.12,0.49,2.31
+GM0544,Orbital Strike 0544,PlayStation 4,Shooter,Nova Games,2023,0.3,0.18,0.07,0.21,0.76
+GM0545,Shape Shift 0545,Xbox Series X|S,Puzzle,Vertex Play,2025,0.26,0.25,0.1,0.15,0.76
+GM0546,Combat Legends 0546,PlayStation 4,Fighting,Arcadia Interactive,2025,0.23,0.2,0.11,0.12,0.66
+GM0547,Pro League 26 0547,Xbox One,Sports,Arcadia Interactive,2017,0.53,0.57,0.23,0.32,1.65
+GM0548,Tactical Dominion 0548,PlayStation 4,Strategy,BluePeak Digital,2018,0.4,0.41,0.2,0.25,1.26
+GM0549,Dragon Crown 0549,PC,Role-Playing,Vertex Play,2015,0.82,0.5,0.16,0.27,1.75
+GM0550,Steel Horizon 0550,Xbox One,Action,Orbit Works,2018,0.28,0.18,0.04,0.2,0.7
+GM0551,Court Masters 0551,PC,Sports,BluePeak Digital,2018,1.61,1.13,0.46,0.45,3.65
+GM0552,Neon Rebellion 0552,Nintendo Switch,Action,Pixel Studios,2021,1.36,0.86,0.44,0.17,2.83
+GM0553,Chronicles of Ember 0553,Xbox One,Role-Playing,NextLevel Entertainment,2018,0.21,0.14,0.03,0.08,0.46
+GM0554,Speed Legends 0554,PlayStation 4,Racing,Nova Games,2015,0.27,0.25,0.1,0.12,0.74
+GM0555,Rogue Battalion 0555,PlayStation 5,Action,Nova Games,2021,0.17,0.15,0.04,0.17,0.53
+GM0556,Deep Space Engineer 0556,Xbox One,Simulation,Nova Games,2022,0.23,0.13,0.09,0.09,0.54
+GM0557,Empire Architect 0557,Nintendo Switch,Strategy,Pixel Studios,2021,0.46,0.42,0.12,0.51,1.51
+GM0558,Final Round 0558,Xbox Series X|S,Fighting,NextLevel Entertainment,2025,0.5,0.33,0.17,0.05,1.05
+GM0559,Nightfall Protocol 0559,PlayStation 4,Action,Nova Games,2020,0.28,0.2,0.1,0.08,0.66
+GM0560,Nightfall Protocol 0560,PlayStation 5,Action,Pixel Studios,2025,0.32,0.28,0.06,0.14,0.8
+GM0561,Crystal Logic 0561,PlayStation 5,Puzzle,Orbit Works,2023,0.29,0.25,0.1,0.29,0.93
+GM0562,Speed Legends 0562,PlayStation 4,Racing,Orbit Works,2022,0.97,0.69,0.32,0.08,2.06
+GM0563,Rogue Battalion 0563,PC,Action,RedFox Publishing,2017,0.2,0.14,0.08,0.06,0.48
+GM0564,Speed Legends 0564,PlayStation 5,Racing,Arcadia Interactive,2022,0.25,0.16,0.03,0.16,0.6
+GM0565,Frontline Zero 0565,Nintendo Switch,Shooter,BluePeak Digital,2021,0.6,0.39,0.18,0.19,1.36
+GM0566,Nitro Horizon 0566,PlayStation 4,Racing,Orbit Works,2024,0.18,0.17,0.07,0.05,0.47
+GM0567,Nightfall Protocol 0567,PlayStation 5,Action,Arcadia Interactive,2024,2.77,1.59,0.48,1.75,6.59
+GM0568,Nightfall Protocol 0568,Xbox Series X|S,Action,Vertex Play,2019,0.33,0.24,0.14,0.06,0.77
+GM0569,Rogue Battalion 0569,Xbox Series X|S,Action,Arcadia Interactive,2023,0.26,0.23,0.07,0.25,0.81
+GM0570,Neon Rebellion 0570,Mobile,Action,BluePeak Digital,2025,0.58,0.58,0.29,0.2,1.65
+GM0571,Turbo Circuit 0571,Nintendo Switch,Racing,Vertex Play,2020,0.91,0.47,0.23,0.36,1.97
+GM0572,Chronicles of Ember 0572,Xbox Series X|S,Role-Playing,NextLevel Entertainment,2022,0.29,0.17,0.08,0.16,0.7
+GM0573,Puzzle Planet 0573,PlayStation 5,Puzzle,Pixel Studios,2023,1.48,1.11,0.3,0.24,3.13
+GM0574,Nitro Horizon 0574,Xbox Series X|S,Racing,Nova Games,2025,0.28,0.17,0.06,0.11,0.62
+GM0575,Legends of Aether 0575,PlayStation 5,Role-Playing,Vertex Play,2023,0.98,0.78,0.22,0.22,2.2
+GM0576,Frontline Zero 0576,Nintendo Switch,Shooter,Pixel Studios,2017,0.18,0.14,0.02,0.05,0.39
+GM0577,Combat Legends 0577,PC,Fighting,RedFox Publishing,2025,0.92,0.73,0.33,0.31,2.29
+GM0578,Steel Horizon 0578,Nintendo Switch,Action,Orbit Works,2023,0.35,0.3,0.11,0.23,0.99
+GM0579,Farmstead Life 0579,PC,Simulation,Nova Games,2017,0.63,0.52,0.15,0.21,1.51
+GM0580,Turbo Circuit 0580,PC,Racing,Orbit Works,2022,0.77,0.66,0.25,0.25,1.93
+GM0581,Pro League 26 0581,PlayStation 4,Sports,Nova Games,2019,0.04,0.03,0.01,0.04,0.12
+GM0582,Racing Champions 0582,PC,Sports,Orbit Works,2023,0.41,0.38,0.18,0.26,1.23
+GM0583,Frontier Command 0583,Xbox Series X|S,Strategy,BluePeak Digital,2025,0.54,0.34,0.15,0.24,1.27
+GM0584,Dragon Crown 0584,PC,Role-Playing,Orbit Works,2020,0.94,0.49,0.14,0.45,2.02
+GM0585,Turbo Circuit 0585,Nintendo Switch,Racing,Pixel Studios,2021,0.3,0.24,0.07,0.07,0.68
+GM0586,Legends of Aether 0586,PC,Role-Playing,Vertex Play,2024,1.13,0.89,0.49,0.89,3.4
+GM0587,Steel Horizon 0587,Nintendo Switch,Action,Arcadia Interactive,2018,0.32,0.19,0.1,0.06,0.67
+GM0588,Shadow Strike 0588,Nintendo Switch,Action,RedFox Publishing,2015,0.61,0.55,0.07,0.35,1.58
+GM0589,Kingdom Quest 0589,Nintendo Switch,Role-Playing,Pixel Studios,2024,0.16,0.17,0.08,0.09,0.5
+GM0590,Iron Fist League 0590,PlayStation 4,Fighting,NextLevel Entertainment,2023,0.37,0.2,0.06,0.28,0.91
+GM0591,The Forgotten Map 0591,PC,Adventure,Nova Games,2016,0.85,0.49,0.27,0.39,2.0
+GM0592,Nightfall Protocol 0592,Mobile,Action,RedFox Publishing,2018,0.36,0.22,0.09,0.16,0.83
+GM0593,Drift Republic 0593,Nintendo Switch,Racing,Orbit Works,2023,0.42,0.29,0.11,0.25,1.07
+GM0594,Auto Workshop Sim 0594,PlayStation 5,Simulation,RedFox Publishing,2019,1.08,0.82,0.36,0.11,2.37
+GM0595,Iron Fist League 0595,PC,Fighting,Vertex Play,2025,0.12,0.07,0.02,0.08,0.29
+GM0596,World Cup Challenge 0596,Mobile,Sports,Arcadia Interactive,2016,0.17,0.17,0.05,0.11,0.5
+GM0597,Skybound Journey 0597,Xbox One,Adventure,Orbit Works,2024,0.6,0.48,0.12,0.15,1.35
+GM0598,Auto Workshop Sim 0598,Mobile,Simulation,Orbit Works,2017,0.24,0.21,0.09,0.17,0.71
+GM0599,Shadow Strike 0599,Xbox One,Action,Pixel Studios,2022,0.19,0.18,0.03,0.18,0.58
+GM0600,Neon Rebellion 0600,Nintendo Switch,Action,Vertex Play,2018,0.2,0.16,0.08,0.08,0.52
+GM0601,Speed Legends 0601,Mobile,Racing,Nova Games,2021,0.14,0.08,0.02,0.12,0.36
+GM0602,Tactical Dominion 0602,Mobile,Strategy,Arcadia Interactive,2022,0.18,0.15,0.06,0.09,0.48
+GM0603,Nitro Horizon 0603,Xbox One,Racing,Vertex Play,2022,0.24,0.2,0.1,0.24,0.78
+GM0604,Legends of Aether 0604,Nintendo Switch,Role-Playing,Orbit Works,2020,0.06,0.05,0.03,0.05,0.19
+GM0605,Tactical Dominion 0605,PlayStation 4,Strategy,RedFox Publishing,2020,0.76,0.62,0.18,0.89,2.45
+GM0606,Kingdom Quest 0606,Mobile,Role-Playing,Pixel Studios,2019,0.15,0.09,0.05,0.09,0.38
+GM0607,World Cup Challenge 0607,Mobile,Sports,Orbit Works,2015,0.6,0.34,0.12,0.19,1.25
+GM0608,Drift Republic 0608,PC,Racing,NextLevel Entertainment,2020,0.32,0.19,0.06,0.19,0.76
+GM0609,Shadow Duel 0609,PlayStation 4,Fighting,Pixel Studios,2023,0.16,0.14,0.07,0.09,0.46
+GM0610,Empire Architect 0610,Xbox One,Strategy,Pixel Studios,2024,0.22,0.14,0.03,0.1,0.49
+GM0611,Puzzle Planet 0611,Xbox Series X|S,Puzzle,Orbit Works,2021,0.27,0.18,0.08,0.19,0.72
+GM0612,Deep Space Engineer 0612,PlayStation 5,Simulation,Nova Games,2025,2.74,1.7,1.19,1.17,6.8
+GM0613,The Clockwork Room 0613,PlayStation 5,Puzzle,RedFox Publishing,2024,0.31,0.27,0.07,0.29,0.94
+GM0614,Puzzle Planet 0614,Nintendo Switch,Puzzle,RedFox Publishing,2020,0.62,0.46,0.11,0.58,1.77
+GM0615,Farmstead Life 0615,PlayStation 4,Simulation,Pixel Studios,2017,0.16,0.1,0.04,0.05,0.35
+GM0616,Pro League 26 0616,PlayStation 5,Sports,Orbit Works,2017,0.19,0.1,0.06,0.1,0.45
+GM0617,Mind Maze 0617,Nintendo Switch,Puzzle,Pixel Studios,2020,0.7,0.42,0.14,0.26,1.52
+GM0618,Empire Architect 0618,PlayStation 4,Strategy,Arcadia Interactive,2018,1.16,0.91,0.41,0.1,2.58
+GM0619,Lost Kingdom 0619,PlayStation 5,Adventure,Pixel Studios,2020,0.18,0.16,0.04,0.12,0.5
+GM0620,Ultimate Striker 0620,PC,Sports,NextLevel Entertainment,2019,0.32,0.23,0.07,0.17,0.79
+GM0621,Iron Fist League 0621,Xbox Series X|S,Fighting,Vertex Play,2025,0.2,0.11,0.05,0.09,0.45
+GM0622,Legends of Aether 0622,PC,Role-Playing,Nova Games,2025,0.26,0.2,0.1,0.06,0.62
+GM0623,Deep Space Engineer 0623,Nintendo Switch,Simulation,Vertex Play,2021,0.46,0.25,0.1,0.2,1.01
+GM0624,Chronicles of Ember 0624,Nintendo Switch,Role-Playing,Orbit Works,2016,0.35,0.25,0.13,0.05,0.78
+GM0625,Frontline Zero 0625,Xbox One,Shooter,Pixel Studios,2020,0.24,0.16,0.08,0.12,0.6
+GM0626,Crystal Logic 0626,Xbox One,Puzzle,Arcadia Interactive,2015,0.1,0.07,0.02,0.1,0.29
+GM0627,Turbo Circuit 0627,Nintendo Switch,Racing,RedFox Publishing,2020,0.13,0.1,0.05,0.12,0.4
+GM0628,Legends of Aether 0628,PlayStation 5,Role-Playing,RedFox Publishing,2020,3.82,1.99,1.11,1.12,8.04
+GM0629,Rogue Battalion 0629,Xbox Series X|S,Action,Orbit Works,2017,0.17,0.09,0.05,0.06,0.37
+GM0630,Court Masters 0630,Nintendo Switch,Sports,Vertex Play,2016,0.22,0.15,0.04,0.05,0.46
+GM0631,The Clockwork Room 0631,PC,Puzzle,NextLevel Entertainment,2024,0.3,0.3,0.04,0.26,0.9
+GM0632,Shadow Duel 0632,Xbox Series X|S,Fighting,NextLevel Entertainment,2020,0.3,0.27,0.15,0.22,0.94
+GM0633,Combat Legends 0633,Xbox One,Fighting,RedFox Publishing,2021,0.32,0.23,0.09,0.38,1.02
+GM0634,The Forgotten Map 0634,Mobile,Adventure,Nova Games,2015,0.08,0.06,0.02,0.06,0.22
+GM0635,Final Round 0635,PC,Fighting,Arcadia Interactive,2019,0.1,0.08,0.01,0.08,0.27
+GM0636,Auto Workshop Sim 0636,PC,Simulation,Pixel Studios,2020,0.45,0.34,0.21,0.29,1.29
+GM0637,Chronicles of Ember 0637,Nintendo Switch,Role-Playing,Arcadia Interactive,2023,1.95,1.0,0.27,1.18,4.4
+GM0638,Lost Kingdom 0638,PlayStation 4,Adventure,Arcadia Interactive,2022,0.17,0.13,0.07,0.07,0.44
+GM0639,Critical Impact 0639,PlayStation 4,Shooter,NextLevel Entertainment,2019,0.24,0.16,0.1,0.11,0.61
+GM0640,Galaxy Tactician 0640,Mobile,Strategy,Nova Games,2023,0.42,0.23,0.1,0.15,0.9
+GM0641,Nightfall Protocol 0641,PC,Action,Pixel Studios,2021,0.03,0.02,0.0,0.03,0.08
+GM0642,Court Masters 0642,PlayStation 4,Sports,Orbit Works,2024,0.46,0.45,0.15,0.42,1.48
+GM0643,Final Round 0643,PC,Fighting,Nova Games,2025,0.07,0.05,0.02,0.02,0.16
+GM0644,Nightfall Protocol 0644,PC,Action,RedFox Publishing,2016,0.32,0.27,0.05,0.13,0.77
+GM0645,Chronicles of Ember 0645,Xbox One,Role-Playing,Orbit Works,2025,0.39,0.33,0.08,0.42,1.22
+GM0646,Court Masters 0646,PlayStation 4,Sports,RedFox Publishing,2016,2.61,1.78,0.63,1.33,6.35
+GM0647,Nightfall Protocol 0647,Mobile,Action,NextLevel Entertainment,2025,0.5,0.4,0.15,0.24,1.29
+GM0648,Chronicles of Ember 0648,PC,Role-Playing,Vertex Play,2019,0.25,0.19,0.06,0.05,0.55
+GM0649,Kingdom Quest 0649,Xbox Series X|S,Role-Playing,Nova Games,2023,0.11,0.11,0.04,0.09,0.35
+GM0650,The Forgotten Map 0650,Xbox Series X|S,Adventure,Nova Games,2016,0.58,0.44,0.06,0.23,1.31
+GM0651,Racing Champions 0651,PlayStation 5,Sports,Vertex Play,2025,0.28,0.27,0.12,0.1,0.77
+GM0652,Lost Kingdom 0652,Xbox One,Adventure,Orbit Works,2025,0.07,0.05,0.01,0.09,0.22
+GM0653,Court Masters 0653,Nintendo Switch,Sports,Vertex Play,2019,0.19,0.12,0.04,0.1,0.45
+GM0654,Shadow Strike 0654,PlayStation 5,Action,Nova Games,2018,0.93,0.7,0.23,0.38,2.24
+GM0655,Galaxy Tactician 0655,PlayStation 5,Strategy,Orbit Works,2022,0.1,0.11,0.05,0.06,0.32
+GM0656,Court Masters 0656,PlayStation 4,Sports,Vertex Play,2024,0.28,0.17,0.05,0.12,0.62
+GM0657,Rogue Battalion 0657,Mobile,Action,Vertex Play,2024,0.44,0.36,0.14,0.31,1.25
+GM0658,Galaxy Tactician 0658,Mobile,Strategy,Vertex Play,2018,0.37,0.26,0.05,0.3,0.98
+GM0659,Phantom Ops 0659,Mobile,Shooter,Pixel Studios,2022,0.53,0.39,0.09,0.38,1.39
+GM0660,Auto Workshop Sim 0660,PlayStation 4,Simulation,NextLevel Entertainment,2023,0.18,0.12,0.02,0.07,0.39
+GM0661,Chronicles of Ember 0661,Mobile,Role-Playing,BluePeak Digital,2022,0.45,0.32,0.06,0.2,1.03
+GM0662,Mystic Trails 0662,PlayStation 4,Adventure,RedFox Publishing,2022,0.19,0.14,0.1,0.19,0.62
+GM0663,Dragon Crown 0663,PC,Role-Playing,Nova Games,2016,0.24,0.21,0.08,0.18,0.71
+GM0664,Iron Fist League 0664,Nintendo Switch,Fighting,Orbit Works,2017,0.23,0.26,0.11,0.14,0.74
+GM0665,Arena Clash 0665,Mobile,Fighting,Pixel Studios,2023,1.2,0.63,0.21,0.55,2.59
+GM0666,World Cup Challenge 0666,PlayStation 4,Sports,Pixel Studios,2017,0.4,0.42,0.13,0.29,1.24
+GM0667,Pro League 26 0667,PlayStation 5,Sports,Vertex Play,2020,0.24,0.22,0.07,0.16,0.69
+GM0668,Frontier Command 0668,PC,Strategy,RedFox Publishing,2018,0.12,0.09,0.04,0.01,0.26
+GM0669,Velocity Rush 0669,Mobile,Racing,Vertex Play,2017,0.88,0.52,0.2,0.65,2.25
+GM0670,Ultimate Striker 0670,PlayStation 4,Sports,RedFox Publishing,2015,0.76,0.37,0.21,0.3,1.64
+GM0671,Deep Space Engineer 0671,Mobile,Simulation,RedFox Publishing,2021,0.15,0.11,0.04,0.03,0.33
+GM0672,Rogue Battalion 0672,PlayStation 4,Action,NextLevel Entertainment,2023,0.75,0.53,0.3,0.39,1.97
+GM0673,Frontier Command 0673,Mobile,Strategy,Pixel Studios,2015,0.22,0.18,0.06,0.06,0.52
+GM0674,Turbo Circuit 0674,PC,Racing,Orbit Works,2023,0.13,0.15,0.05,0.1,0.43
+GM0675,The Forgotten Map 0675,Xbox One,Adventure,Pixel Studios,2015,0.48,0.29,0.18,0.28,1.23
+GM0676,Combat Legends 0676,PlayStation 5,Fighting,Nova Games,2022,0.27,0.19,0.09,0.08,0.63
+GM0677,Final Round 0677,Nintendo Switch,Fighting,NextLevel Entertainment,2020,0.12,0.08,0.02,0.05,0.27
+GM0678,Dragon Crown 0678,PC,Role-Playing,NextLevel Entertainment,2020,0.35,0.26,0.05,0.27,0.93
+GM0679,Ultimate Striker 0679,PlayStation 4,Sports,Vertex Play,2016,0.24,0.17,0.06,0.12,0.59
+GM0680,Skybound Journey 0680,Xbox One,Adventure,Vertex Play,2022,0.44,0.38,0.14,0.36,1.32
+GM0681,World Cup Challenge 0681,Nintendo Switch,Sports,Pixel Studios,2018,0.24,0.22,0.13,0.15,0.74
+GM0682,Rogue Battalion 0682,PC,Action,BluePeak Digital,2024,0.2,0.17,0.06,0.2,0.63
+GM0683,Kingdom Quest 0683,Nintendo Switch,Role-Playing,Arcadia Interactive,2024,0.06,0.04,0.01,0.05,0.16
+GM0684,City Builder X 0684,PC,Simulation,BluePeak Digital,2016,0.6,0.44,0.25,0.2,1.49
+GM0685,The Clockwork Room 0685,Nintendo Switch,Puzzle,Arcadia Interactive,2017,0.18,0.13,0.08,0.08,0.47
+GM0686,Starborn Saga 0686,Xbox One,Role-Playing,RedFox Publishing,2021,0.18,0.16,0.08,0.04,0.46
+GM0687,City Builder X 0687,Nintendo Switch,Simulation,Nova Games,2024,0.52,0.45,0.19,0.3,1.46
+GM0688,Neon Rebellion 0688,Xbox Series X|S,Action,Nova Games,2024,0.48,0.27,0.16,0.31,1.22
+GM0689,Speed Legends 0689,PlayStation 5,Racing,NextLevel Entertainment,2018,0.37,0.25,0.11,0.2,0.93
+GM0690,Speed Legends 0690,PlayStation 4,Racing,Arcadia Interactive,2021,0.07,0.04,0.03,0.04,0.18
+GM0691,Velocity Rush 0691,PC,Racing,Orbit Works,2016,0.44,0.23,0.13,0.13,0.93
+GM0692,Kingdom Quest 0692,PlayStation 5,Role-Playing,RedFox Publishing,2020,0.15,0.13,0.05,0.11,0.44
+GM0693,Iron Fist League 0693,PC,Fighting,Vertex Play,2023,0.23,0.15,0.1,0.13,0.61
+GM0694,Mystic Trails 0694,Xbox One,Adventure,NextLevel Entertainment,2023,0.39,0.28,0.15,0.15,0.97
+GM0695,Turbo Circuit 0695,PlayStation 4,Racing,Arcadia Interactive,2018,0.4,0.24,0.03,0.18,0.85
+GM0696,World Cup Challenge 0696,PlayStation 5,Sports,Arcadia Interactive,2015,0.24,0.21,0.09,0.03,0.57
+GM0697,Mystic Trails 0697,PlayStation 5,Adventure,Arcadia Interactive,2023,0.41,0.26,0.07,0.37,1.11
+GM0698,Velocity Rush 0698,Nintendo Switch,Racing,NextLevel Entertainment,2024,0.37,0.28,0.1,0.05,0.8
+GM0699,Combat Legends 0699,PlayStation 5,Fighting,BluePeak Digital,2020,0.41,0.29,0.05,0.3,1.05
+GM0700,Critical Impact 0700,Xbox Series X|S,Shooter,Vertex Play,2025,0.25,0.23,0.1,0.09,0.67
+GM0701,Arena Clash 0701,PlayStation 4,Fighting,NextLevel Entertainment,2022,1.12,0.65,0.4,0.45,2.62
+GM0702,Frontier Command 0702,PlayStation 5,Strategy,Vertex Play,2020,0.09,0.06,0.01,0.05,0.21
+GM0703,Combat Legends 0703,PC,Fighting,Orbit Works,2024,0.27,0.26,0.11,0.17,0.81
+GM0704,Frontier Command 0704,PC,Strategy,Arcadia Interactive,2016,0.45,0.22,0.18,0.15,1.0
+GM0705,Deep Space Engineer 0705,PlayStation 5,Simulation,Vertex Play,2015,0.93,0.5,0.26,0.25,1.94
+GM0706,Racing Champions 0706,Xbox Series X|S,Sports,Nova Games,2018,0.32,0.23,0.14,0.17,0.86
+GM0707,Crystal Logic 0707,Mobile,Puzzle,RedFox Publishing,2016,0.29,0.19,0.1,0.23,0.81
+GM0708,Rogue Battalion 0708,Nintendo Switch,Action,BluePeak Digital,2019,0.23,0.16,0.07,0.02,0.48
+GM0709,Turbo Circuit 0709,Mobile,Racing,Vertex Play,2016,0.26,0.19,0.04,0.34,0.83
+GM0710,Kingdom Quest 0710,Nintendo Switch,Role-Playing,Nova Games,2022,0.27,0.19,0.14,0.26,0.86
+GM0711,World Cup Challenge 0711,Nintendo Switch,Sports,NextLevel Entertainment,2024,1.05,0.79,0.28,0.65,2.77
+GM0712,Empire Architect 0712,PlayStation 4,Strategy,Nova Games,2022,0.26,0.18,0.11,0.26,0.81
+GM0713,Frontier Command 0713,Mobile,Strategy,Arcadia Interactive,2025,0.23,0.18,0.04,0.14,0.59
+GM0714,Shadow Strike 0714,PC,Action,Orbit Works,2024,0.05,0.03,0.02,0.02,0.12
+GM0715,Crystal Logic 0715,PlayStation 4,Puzzle,BluePeak Digital,2019,0.26,0.24,0.13,0.2,0.83
+GM0716,Phantom Ops 0716,PlayStation 4,Shooter,NextLevel Entertainment,2025,0.26,0.22,0.08,0.06,0.62
+GM0717,Starborn Saga 0717,Xbox Series X|S,Role-Playing,BluePeak Digital,2024,0.21,0.22,0.11,0.11,0.65
+GM0718,Speed Legends 0718,Xbox One,Racing,NextLevel Entertainment,2022,0.38,0.31,0.08,0.11,0.88
+GM0719,Crystal Logic 0719,PlayStation 4,Puzzle,Nova Games,2020,0.08,0.05,0.02,0.05,0.2
+GM0720,Tactical Dominion 0720,PC,Strategy,Nova Games,2018,0.18,0.12,0.03,0.05,0.38
+GM0721,Turbo Circuit 0721,PlayStation 5,Racing,Arcadia Interactive,2019,0.56,0.3,0.22,0.19,1.27
+GM0722,Dragon Crown 0722,PlayStation 4,Role-Playing,BluePeak Digital,2025,0.19,0.13,0.04,0.06,0.42
+GM0723,City Builder X 0723,PC,Simulation,Arcadia Interactive,2018,0.11,0.09,0.05,0.05,0.3
+GM0724,Lost Kingdom 0724,Nintendo Switch,Adventure,NextLevel Entertainment,2023,0.19,0.17,0.04,0.15,0.55
+GM0725,Neon Rebellion 0725,Mobile,Action,Vertex Play,2018,1.66,1.15,0.24,0.7,3.75
+GM0726,Starborn Saga 0726,PlayStation 4,Role-Playing,Vertex Play,2017,0.28,0.21,0.07,0.1,0.66
+GM0727,Skybound Journey 0727,Xbox One,Adventure,Nova Games,2018,0.18,0.11,0.03,0.08,0.4
+GM0728,Target Lock 0728,PC,Shooter,BluePeak Digital,2019,0.35,0.32,0.1,0.35,1.12
+GM0729,Iron Realms 0729,Xbox Series X|S,Strategy,BluePeak Digital,2021,0.21,0.16,0.04,0.15,0.56
+GM0730,Rogue Battalion 0730,PlayStation 5,Action,Pixel Studios,2020,1.08,0.82,0.14,0.73,2.77
+GM0731,Dragon Crown 0731,PC,Role-Playing,Pixel Studios,2020,0.19,0.17,0.07,0.09,0.52
+GM0732,Starborn Saga 0732,Mobile,Role-Playing,Orbit Works,2015,0.43,0.43,0.2,0.13,1.19
+GM0733,Critical Impact 0733,PlayStation 4,Shooter,Arcadia Interactive,2021,0.09,0.07,0.03,0.08,0.27
+GM0734,Drift Republic 0734,Xbox One,Racing,Vertex Play,2020,0.42,0.41,0.17,0.25,1.25
+GM0735,Skybound Journey 0735,Nintendo Switch,Adventure,Nova Games,2020,0.1,0.08,0.02,0.05,0.25
+GM0736,Skybound Journey 0736,Xbox One,Adventure,RedFox Publishing,2023,0.15,0.08,0.02,0.12,0.37
+GM0737,Iron Fist League 0737,Xbox Series X|S,Fighting,RedFox Publishing,2021,0.13,0.08,0.02,0.1,0.33
+GM0738,Drift Republic 0738,Xbox One,Racing,Orbit Works,2016,0.05,0.05,0.02,0.03,0.15
+GM0739,Steel Horizon 0739,PC,Action,RedFox Publishing,2019,0.23,0.17,0.05,0.14,0.59
+GM0740,Nightfall Protocol 0740,Nintendo Switch,Action,RedFox Publishing,2021,0.23,0.17,0.03,0.16,0.59
+GM0741,Shadow Duel 0741,PC,Fighting,NextLevel Entertainment,2019,0.2,0.16,0.09,0.07,0.52
+GM0742,Galaxy Tactician 0742,Xbox One,Strategy,Vertex Play,2019,0.15,0.09,0.03,0.09,0.36
+GM0743,Drift Republic 0743,PlayStation 4,Racing,Nova Games,2016,0.26,0.16,0.08,0.11,0.61
+GM0744,Crystal Logic 0744,PlayStation 4,Puzzle,Arcadia Interactive,2024,0.55,0.29,0.14,0.2,1.18
+GM0745,Pro League 26 0745,PlayStation 5,Sports,Arcadia Interactive,2019,1.38,0.76,0.47,0.69,3.3
+GM0746,Phantom Ops 0746,PlayStation 4,Shooter,Pixel Studios,2020,0.75,0.5,0.22,0.5,1.97
+GM0747,Pro League 26 0747,Xbox One,Sports,Vertex Play,2021,0.18,0.12,0.04,0.2,0.54
+GM0748,Farmstead Life 0748,PlayStation 5,Simulation,Vertex Play,2022,0.29,0.22,0.07,0.11,0.69
+GM0749,Racing Champions 0749,Nintendo Switch,Sports,Arcadia Interactive,2015,0.29,0.29,0.06,0.26,0.9
+GM0750,City Builder X 0750,Xbox One,Simulation,Arcadia Interactive,2022,0.14,0.14,0.03,0.14,0.45
+GM0751,Deep Space Engineer 0751,Xbox One,Simulation,Pixel Studios,2021,0.38,0.21,0.09,0.25,0.93
+GM0752,Echoes of Avalon 0752,PlayStation 4,Adventure,NextLevel Entertainment,2018,0.14,0.08,0.02,0.06,0.3
+GM0753,Farmstead Life 0753,Mobile,Simulation,Pixel Studios,2025,0.11,0.07,0.03,0.09,0.3
+GM0754,Turbo Circuit 0754,Xbox One,Racing,RedFox Publishing,2021,0.12,0.08,0.03,0.1,0.33
+GM0755,Chronicles of Ember 0755,PlayStation 5,Role-Playing,NextLevel Entertainment,2016,0.57,0.31,0.23,0.27,1.38
+GM0756,World Cup Challenge 0756,PlayStation 4,Sports,Pixel Studios,2023,0.37,0.31,0.15,0.34,1.17
+GM0757,Dragon Crown 0757,PlayStation 4,Role-Playing,BluePeak Digital,2025,0.46,0.34,0.11,0.22,1.13
+GM0758,Frontier Command 0758,Xbox Series X|S,Strategy,Nova Games,2018,0.11,0.07,0.01,0.09,0.28
+GM0759,Rogue Battalion 0759,PlayStation 5,Action,Arcadia Interactive,2021,2.7,1.86,0.49,0.69,5.74
+GM0760,Kingdom Quest 0760,Xbox Series X|S,Role-Playing,RedFox Publishing,2025,2.16,2.04,0.56,1.57,6.33
+GM0761,Lost Kingdom 0761,Mobile,Adventure,NextLevel Entertainment,2025,0.46,0.3,0.07,0.19,1.02
+GM0762,Empire Architect 0762,Nintendo Switch,Strategy,Pixel Studios,2018,0.09,0.05,0.02,0.04,0.2
+GM0763,Court Masters 0763,PlayStation 5,Sports,NextLevel Entertainment,2018,0.26,0.22,0.13,0.12,0.73
+GM0764,Skybound Journey 0764,PC,Adventure,BluePeak Digital,2021,0.23,0.18,0.06,0.13,0.6
+GM0765,Rogue Battalion 0765,PC,Action,RedFox Publishing,2021,1.69,1.66,0.39,1.42,5.16
+GM0766,Court Masters 0766,PlayStation 5,Sports,Vertex Play,2016,0.13,0.14,0.02,0.11,0.4
+GM0767,Orbital Strike 0767,PlayStation 4,Shooter,RedFox Publishing,2021,1.31,1.05,0.41,0.61,3.38
+GM0768,Pro League 26 0768,Mobile,Sports,Pixel Studios,2021,1.28,1.12,0.45,0.67,3.52
+GM0769,Kingdom Quest 0769,Xbox One,Role-Playing,RedFox Publishing,2018,1.2,0.91,0.37,0.37,2.85
+GM0770,Skybound Journey 0770,Mobile,Adventure,Arcadia Interactive,2019,0.11,0.06,0.01,0.07,0.25
+GM0771,Rogue Battalion 0771,PlayStation 4,Action,Pixel Studios,2023,0.22,0.15,0.06,0.09,0.52
+GM0772,Target Lock 0772,PlayStation 5,Shooter,RedFox Publishing,2016,0.12,0.09,0.02,0.04,0.27
+GM0773,Skybound Journey 0773,Xbox One,Adventure,Nova Games,2017,0.32,0.18,0.07,0.17,0.74
+GM0774,Farmstead Life 0774,PlayStation 4,Simulation,Pixel Studios,2022,0.27,0.26,0.12,0.15,0.8
+GM0775,Skybound Journey 0775,PlayStation 4,Adventure,Pixel Studios,2025,0.18,0.13,0.04,0.14,0.49
+GM0776,Iron Realms 0776,PlayStation 4,Strategy,Pixel Studios,2015,0.27,0.24,0.1,0.06,0.67
+GM0777,Combat Legends 0777,Nintendo Switch,Fighting,RedFox Publishing,2020,0.06,0.04,0.02,0.0,0.12
+GM0778,Auto Workshop Sim 0778,Xbox Series X|S,Simulation,BluePeak Digital,2020,0.65,0.5,0.06,0.23,1.44
+GM0779,Neon Rebellion 0779,PlayStation 5,Action,NextLevel Entertainment,2020,0.44,0.28,0.13,0.11,0.96
+GM0780,Nightfall Protocol 0780,PC,Action,BluePeak Digital,2015,0.53,0.45,0.21,0.19,1.38
+GM0781,Chronicles of Ember 0781,Mobile,Role-Playing,Pixel Studios,2021,0.18,0.16,0.07,0.14,0.55
+GM0782,Target Lock 0782,PC,Shooter,Vertex Play,2016,0.16,0.14,0.03,0.08,0.41
+GM0783,Pro League 26 0783,PlayStation 4,Sports,NextLevel Entertainment,2018,0.07,0.04,0.02,0.04,0.17
+GM0784,Farmstead Life 0784,Mobile,Simulation,BluePeak Digital,2021,0.29,0.24,0.14,0.17,0.84
+GM0785,Steel Horizon 0785,Mobile,Action,Vertex Play,2016,0.5,0.44,0.25,0.28,1.47
+GM0786,Nightfall Protocol 0786,PlayStation 4,Action,RedFox Publishing,2025,0.94,0.69,0.15,0.29,2.07
+GM0787,Shadow Strike 0787,PC,Action,BluePeak Digital,2024,0.22,0.18,0.06,0.04,0.5
+GM0788,Shadow Strike 0788,Xbox Series X|S,Action,NextLevel Entertainment,2021,1.04,0.9,0.43,0.48,2.85
+GM0789,Nitro Horizon 0789,Xbox Series X|S,Racing,Pixel Studios,2021,0.06,0.04,0.02,0.04,0.16
+GM0790,Nightfall Protocol 0790,PC,Action,Nova Games,2024,0.3,0.18,0.11,0.11,0.7
+GM0791,Turbo Circuit 0791,PlayStation 4,Racing,RedFox Publishing,2015,0.94,0.52,0.3,0.33,2.09
+GM0792,Critical Impact 0792,Mobile,Shooter,Arcadia Interactive,2022,0.6,0.47,0.08,0.19,1.34
+GM0793,Rogue Battalion 0793,PlayStation 4,Action,Vertex Play,2020,0.85,0.56,0.29,0.45,2.15
+GM0794,Mystic Trails 0794,PlayStation 4,Adventure,Arcadia Interactive,2020,0.93,0.71,0.29,0.16,2.09
+GM0795,Ultimate Striker 0795,Xbox Series X|S,Sports,Vertex Play,2022,0.21,0.2,0.09,0.12,0.62
+GM0796,Neon Rebellion 0796,PC,Action,Arcadia Interactive,2021,1.6,1.24,0.19,0.52,3.55
+GM0797,Shadow Duel 0797,Mobile,Fighting,Pixel Studios,2023,0.49,0.32,0.1,0.12,1.03
+GM0798,Steel Horizon 0798,PlayStation 4,Action,Orbit Works,2024,0.31,0.22,0.1,0.07,0.7
+GM0799,Phantom Ops 0799,PlayStation 5,Shooter,Vertex Play,2020,0.12,0.06,0.03,0.04,0.25
+GM0800,Combat Legends 0800,PlayStation 5,Fighting,Pixel Studios,2024,0.15,0.1,0.04,0.07,0.36
+GM0801,Shadow Strike 0801,Xbox One,Action,Arcadia Interactive,2021,0.51,0.33,0.13,0.18,1.15
+GM0802,Empire Architect 0802,Nintendo Switch,Strategy,NextLevel Entertainment,2025,0.57,0.35,0.17,0.32,1.41
+GM0803,Mind Maze 0803,PC,Puzzle,NextLevel Entertainment,2025,0.09,0.04,0.04,0.03,0.2
+GM0804,Velocity Rush 0804,Mobile,Racing,Arcadia Interactive,2021,0.1,0.09,0.03,0.1,0.32
+GM0805,Orbital Strike 0805,Xbox Series X|S,Shooter,NextLevel Entertainment,2016,0.34,0.27,0.18,0.33,1.12
+GM0806,Echoes of Avalon 0806,Xbox Series X|S,Adventure,NextLevel Entertainment,2024,0.27,0.15,0.05,0.18,0.65
+GM0807,Dragon Crown 0807,PlayStation 4,Role-Playing,Pixel Studios,2019,0.22,0.14,0.07,0.11,0.54
+GM0808,Tactical Dominion 0808,Xbox Series X|S,Strategy,Arcadia Interactive,2021,0.56,0.35,0.22,0.14,1.27
+GM0809,The Forgotten Map 0809,PC,Adventure,Pixel Studios,2025,0.41,0.27,0.09,0.23,1.0
+GM0810,Dragon Crown 0810,PlayStation 5,Role-Playing,Pixel Studios,2021,0.16,0.11,0.05,0.03,0.35
+GM0811,Nightfall Protocol 0811,Xbox One,Action,Orbit Works,2023,0.22,0.18,0.1,0.2,0.7
+GM0812,Mystic Trails 0812,Xbox Series X|S,Adventure,RedFox Publishing,2022,0.4,0.3,0.12,0.12,0.94
+GM0813,Neon Rebellion 0813,Xbox One,Action,Nova Games,2025,0.18,0.1,0.07,0.06,0.41
+GM0814,Shape Shift 0814,PlayStation 5,Puzzle,RedFox Publishing,2023,0.57,0.44,0.12,0.12,1.25
+GM0815,Kingdom Quest 0815,Xbox One,Role-Playing,Pixel Studios,2018,0.44,0.34,0.1,0.09,0.97
+GM0816,Turbo Circuit 0816,PlayStation 4,Racing,Pixel Studios,2021,0.24,0.24,0.09,0.1,0.67
+GM0817,Target Lock 0817,Xbox One,Shooter,Nova Games,2024,0.42,0.3,0.15,0.04,0.91
+GM0818,The Forgotten Map 0818,Nintendo Switch,Adventure,BluePeak Digital,2015,0.2,0.13,0.09,0.13,0.55
+GM0819,Mystic Trails 0819,Nintendo Switch,Adventure,Pixel Studios,2019,0.16,0.16,0.06,0.11,0.49
+GM0820,The Forgotten Map 0820,Mobile,Adventure,Nova Games,2022,0.19,0.16,0.09,0.16,0.6
+GM0821,Pro League 26 0821,PC,Sports,Vertex Play,2018,0.08,0.06,0.03,0.08,0.25
+GM0822,Nightfall Protocol 0822,PlayStation 5,Action,RedFox Publishing,2020,0.24,0.24,0.04,0.2,0.72
+GM0823,Court Masters 0823,PC,Sports,BluePeak Digital,2021,0.47,0.32,0.13,0.41,1.33
+GM0824,Kingdom Quest 0824,PC,Role-Playing,NextLevel Entertainment,2022,0.14,0.11,0.02,0.08,0.35
+GM0825,The Clockwork Room 0825,Xbox Series X|S,Puzzle,RedFox Publishing,2017,0.16,0.15,0.04,0.12,0.47
+GM0826,Arena Clash 0826,PlayStation 4,Fighting,Orbit Works,2019,0.24,0.17,0.08,0.21,0.7
+GM0827,Lost Kingdom 0827,Nintendo Switch,Adventure,NextLevel Entertainment,2025,0.64,0.5,0.21,0.15,1.5
+GM0828,Turbo Circuit 0828,PlayStation 5,Racing,Arcadia Interactive,2018,0.11,0.08,0.02,0.11,0.32
+GM0829,Steel Horizon 0829,PC,Action,Nova Games,2021,0.38,0.23,0.08,0.23,0.92
+GM0830,World Cup Challenge 0830,PlayStation 4,Sports,Nova Games,2019,0.18,0.12,0.03,0.05,0.38
+GM0831,Frontline Zero 0831,PC,Shooter,Nova Games,2025,0.71,0.64,0.1,0.4,1.85
+GM0832,Skybound Journey 0832,PlayStation 4,Adventure,Orbit Works,2016,0.49,0.44,0.12,0.31,1.36
+GM0833,Shape Shift 0833,Xbox Series X|S,Puzzle,NextLevel Entertainment,2025,0.08,0.06,0.03,0.08,0.25
+GM0834,Empire Architect 0834,Xbox Series X|S,Strategy,NextLevel Entertainment,2018,0.05,0.05,0.03,0.02,0.15
+GM0835,Echoes of Avalon 0835,PC,Adventure,NextLevel Entertainment,2021,0.43,0.32,0.15,0.04,0.94
+GM0836,Iron Fist League 0836,PlayStation 4,Fighting,Pixel Studios,2021,0.12,0.08,0.01,0.05,0.26
+GM0837,Frontier Command 0837,PlayStation 5,Strategy,Nova Games,2018,0.55,0.44,0.23,0.08,1.3
+GM0838,Neon Rebellion 0838,PlayStation 4,Action,RedFox Publishing,2021,0.43,0.43,0.18,0.4,1.44
+GM0839,Neon Rebellion 0839,PlayStation 4,Action,Orbit Works,2019,0.82,0.56,0.17,0.81,2.36
+GM0840,Velocity Rush 0840,PC,Racing,Arcadia Interactive,2019,0.79,0.56,0.13,0.31,1.79
+GM0841,Target Lock 0841,PC,Shooter,BluePeak Digital,2025,0.47,0.48,0.18,0.37,1.5
+GM0842,Auto Workshop Sim 0842,Mobile,Simulation,Orbit Works,2020,0.07,0.04,0.01,0.04,0.16
+GM0843,Neon Rebellion 0843,PC,Action,RedFox Publishing,2025,0.19,0.12,0.05,0.11,0.47
+GM0844,Dragon Crown 0844,Xbox Series X|S,Role-Playing,RedFox Publishing,2017,0.24,0.15,0.07,0.18,0.64
+GM0845,Drift Republic 0845,PlayStation 5,Racing,Arcadia Interactive,2018,1.63,1.28,0.41,1.6,4.92
+GM0846,Phantom Ops 0846,Xbox One,Shooter,NextLevel Entertainment,2016,0.13,0.1,0.03,0.07,0.33
+GM0847,Farmstead Life 0847,Xbox One,Simulation,Nova Games,2024,0.07,0.05,0.04,0.07,0.23
+GM0848,Shadow Duel 0848,PlayStation 5,Fighting,Pixel Studios,2019,0.06,0.07,0.03,0.03,0.19
+GM0849,Nightfall Protocol 0849,Nintendo Switch,Action,Pixel Studios,2018,0.19,0.16,0.04,0.16,0.55
+GM0850,Speed Legends 0850,Nintendo Switch,Racing,Pixel Studios,2023,0.19,0.1,0.07,0.06,0.42
+GM0851,Rogue Battalion 0851,PlayStation 4,Action,BluePeak Digital,2025,1.3,1.05,0.33,0.35,3.03
+GM0852,Shadow Duel 0852,PC,Fighting,Orbit Works,2020,0.11,0.1,0.02,0.07,0.3
+GM0853,Steel Horizon 0853,PC,Action,BluePeak Digital,2024,0.25,0.17,0.07,0.05,0.54
+GM0854,Kingdom Quest 0854,PlayStation 5,Role-Playing,Vertex Play,2025,0.44,0.32,0.14,0.05,0.95
+GM0855,Frontline Zero 0855,Nintendo Switch,Shooter,Arcadia Interactive,2020,0.17,0.13,0.06,0.02,0.38
+GM0856,Rogue Battalion 0856,Mobile,Action,Orbit Works,2017,0.13,0.1,0.05,0.08,0.36
+GM0857,Racing Champions 0857,PC,Sports,NextLevel Entertainment,2021,0.29,0.22,0.12,0.11,0.74
+GM0858,Starborn Saga 0858,Xbox One,Role-Playing,NextLevel Entertainment,2016,2.74,1.34,0.52,1.28,5.88
+GM0859,Frontline Zero 0859,PlayStation 5,Shooter,Arcadia Interactive,2023,0.04,0.03,0.02,0.04,0.13
+GM0860,Auto Workshop Sim 0860,Xbox One,Simulation,RedFox Publishing,2020,0.28,0.17,0.04,0.2,0.69
+GM0861,Steel Horizon 0861,PC,Action,RedFox Publishing,2017,0.7,0.63,0.37,0.44,2.14
+GM0862,Racing Champions 0862,PlayStation 4,Sports,Nova Games,2019,0.53,0.39,0.15,0.53,1.6
+GM0863,Court Masters 0863,Xbox Series X|S,Sports,Orbit Works,2024,0.34,0.22,0.16,0.19,0.91
+GM0864,Turbo Circuit 0864,Xbox One,Racing,RedFox Publishing,2024,0.11,0.09,0.03,0.02,0.25
+GM0865,Rogue Battalion 0865,PlayStation 4,Action,RedFox Publishing,2021,0.49,0.36,0.19,0.5,1.54
+GM0866,Critical Impact 0866,PlayStation 5,Shooter,Arcadia Interactive,2023,0.18,0.21,0.04,0.17,0.6
+GM0867,Lost Kingdom 0867,PlayStation 5,Adventure,Pixel Studios,2024,0.54,0.28,0.1,0.3,1.22
+GM0868,Arena Clash 0868,Mobile,Fighting,Orbit Works,2021,0.21,0.15,0.03,0.17,0.56
+GM0869,Flight Academy 0869,PlayStation 4,Simulation,Pixel Studios,2023,0.49,0.33,0.15,0.24,1.21
+GM0870,Orbital Strike 0870,PC,Shooter,Vertex Play,2016,1.55,0.86,0.62,0.51,3.54
+GM0871,Nitro Horizon 0871,Xbox One,Racing,BluePeak Digital,2022,0.48,0.45,0.13,0.26,1.32
+GM0872,Phantom Ops 0872,PlayStation 5,Shooter,Pixel Studios,2017,0.87,0.63,0.31,0.09,1.9
+GM0873,Drift Republic 0873,PlayStation 5,Racing,Orbit Works,2017,0.07,0.04,0.03,0.05,0.19
+GM0874,Court Masters 0874,Mobile,Sports,Vertex Play,2025,1.09,0.78,0.29,0.83,2.99
+GM0875,Frontier Command 0875,PlayStation 4,Strategy,BluePeak Digital,2020,0.1,0.09,0.05,0.03,0.27
+GM0876,Shadow Strike 0876,Xbox One,Action,NextLevel Entertainment,2023,0.26,0.16,0.07,0.21,0.7
+GM0877,Pro League 26 0877,PlayStation 4,Sports,Vertex Play,2025,0.45,0.35,0.08,0.54,1.42
+GM0878,Combat Legends 0878,Nintendo Switch,Fighting,NextLevel Entertainment,2021,0.23,0.14,0.07,0.04,0.48
+GM0879,Racing Champions 0879,PlayStation 4,Sports,Arcadia Interactive,2022,0.21,0.19,0.08,0.05,0.53
+GM0880,Nightfall Protocol 0880,Nintendo Switch,Action,Vertex Play,2018,0.12,0.09,0.04,0.14,0.39
+GM0881,Chronicles of Ember 0881,Nintendo Switch,Role-Playing,NextLevel Entertainment,2025,0.64,0.71,0.21,0.5,2.06
+GM0882,Iron Fist League 0882,PC,Fighting,BluePeak Digital,2021,0.31,0.25,0.07,0.07,0.7
+GM0883,Target Lock 0883,PlayStation 4,Shooter,Nova Games,2023,1.03,1.03,0.42,0.81,3.29
+GM0884,Legends of Aether 0884,PC,Role-Playing,Vertex Play,2017,0.42,0.3,0.07,0.16,0.95
+GM0885,Auto Workshop Sim 0885,Mobile,Simulation,Arcadia Interactive,2025,0.02,0.01,0.01,0.01,0.05
+GM0886,World Cup Challenge 0886,Nintendo Switch,Sports,RedFox Publishing,2018,0.35,0.25,0.08,0.13,0.81
+GM0887,Racing Champions 0887,Nintendo Switch,Sports,RedFox Publishing,2023,1.17,0.71,0.23,0.39,2.5
+GM0888,Turbo Circuit 0888,Xbox Series X|S,Racing,RedFox Publishing,2019,1.32,0.9,0.44,0.82,3.48
+GM0889,Critical Impact 0889,Mobile,Shooter,Pixel Studios,2016,0.49,0.38,0.19,0.25,1.31
+GM0890,Critical Impact 0890,Xbox One,Shooter,Nova Games,2025,0.2,0.17,0.06,0.17,0.6
+GM0891,Skybound Journey 0891,Mobile,Adventure,BluePeak Digital,2022,0.14,0.11,0.01,0.07,0.33
+GM0892,Dragon Crown 0892,Xbox Series X|S,Role-Playing,Orbit Works,2025,0.05,0.03,0.01,0.02,0.11
+GM0893,Phantom Ops 0893,PC,Shooter,Nova Games,2017,0.39,0.27,0.13,0.31,1.1
+GM0894,World Cup Challenge 0894,Mobile,Sports,NextLevel Entertainment,2024,1.16,0.78,0.15,0.51,2.6
+GM0895,Frontier Command 0895,PlayStation 4,Strategy,BluePeak Digital,2023,0.17,0.1,0.02,0.11,0.4
+GM0896,Drift Republic 0896,Nintendo Switch,Racing,Orbit Works,2023,0.11,0.08,0.02,0.15,0.36
+GM0897,Crystal Logic 0897,PC,Puzzle,Pixel Studios,2024,0.1,0.09,0.04,0.08,0.31
+GM0898,Dragon Crown 0898,Xbox One,Role-Playing,NextLevel Entertainment,2019,1.73,1.2,0.22,1.54,4.69
+GM0899,Steel Horizon 0899,Xbox One,Action,Pixel Studios,2016,0.24,0.19,0.12,0.19,0.74
+GM0900,Rogue Battalion 0900,Nintendo Switch,Action,NextLevel Entertainment,2021,0.33,0.2,0.08,0.19,0.8
+GM0901,Phantom Ops 0901,Nintendo Switch,Shooter,Arcadia Interactive,2019,0.37,0.43,0.22,0.19,1.21
+GM0902,World Cup Challenge 0902,Xbox Series X|S,Sports,Nova Games,2017,0.26,0.25,0.09,0.21,0.81
+GM0903,Turbo Circuit 0903,PlayStation 5,Racing,BluePeak Digital,2016,0.38,0.27,0.06,0.38,1.09
+GM0904,Flight Academy 0904,PlayStation 4,Simulation,Vertex Play,2021,0.24,0.17,0.1,0.2,0.71
+GM0905,Orbital Strike 0905,Mobile,Shooter,Pixel Studios,2024,0.82,0.62,0.35,0.69,2.48
+GM0906,Court Masters 0906,PlayStation 4,Sports,Orbit Works,2020,0.57,0.46,0.14,0.35,1.52
+GM0907,Empire Architect 0907,PlayStation 4,Strategy,Nova Games,2023,0.17,0.14,0.07,0.03,0.41
+GM0908,Drift Republic 0908,PC,Racing,Arcadia Interactive,2020,0.24,0.17,0.06,0.22,0.69
+GM0909,Nightfall Protocol 0909,PC,Action,BluePeak Digital,2015,0.59,0.39,0.11,0.38,1.47
+GM0910,Nightfall Protocol 0910,Xbox Series X|S,Action,NextLevel Entertainment,2016,0.59,0.41,0.17,0.08,1.25
+GM0911,Drift Republic 0911,Xbox One,Racing,RedFox Publishing,2020,0.37,0.34,0.06,0.42,1.19
+GM0912,Kingdom Quest 0912,PC,Role-Playing,Arcadia Interactive,2024,0.3,0.19,0.1,0.15,0.74
+GM0913,Critical Impact 0913,Mobile,Shooter,Orbit Works,2017,0.8,0.6,0.08,0.25,1.73
+GM0914,Empire Architect 0914,PlayStation 4,Strategy,RedFox Publishing,2019,0.07,0.06,0.02,0.05,0.2
+GM0915,Iron Realms 0915,PlayStation 5,Strategy,Vertex Play,2022,0.13,0.07,0.02,0.1,0.32
+GM0916,Shadow Strike 0916,Mobile,Action,RedFox Publishing,2018,0.21,0.12,0.07,0.04,0.44
+GM0917,Arena Clash 0917,PlayStation 5,Fighting,Nova Games,2016,0.1,0.09,0.04,0.05,0.28
+GM0918,Dragon Crown 0918,Mobile,Role-Playing,Vertex Play,2016,0.85,0.53,0.25,0.6,2.23
+GM0919,Drift Republic 0919,Mobile,Racing,BluePeak Digital,2022,0.13,0.08,0.04,0.11,0.36
+GM0920,Frontline Zero 0920,Xbox One,Shooter,Pixel Studios,2022,0.19,0.17,0.06,0.14,0.56
+GM0921,Orbital Strike 0921,Xbox One,Shooter,Arcadia Interactive,2023,0.99,0.8,0.18,0.63,2.6
+GM0922,Pro League 26 0922,PlayStation 5,Sports,Arcadia Interactive,2025,0.05,0.03,0.02,0.02,0.12
+GM0923,Crystal Logic 0923,PC,Puzzle,Vertex Play,2017,0.11,0.07,0.02,0.07,0.27
+GM0924,Velocity Rush 0924,PlayStation 4,Racing,Arcadia Interactive,2021,0.26,0.22,0.05,0.32,0.85
+GM0925,Iron Realms 0925,PlayStation 5,Strategy,NextLevel Entertainment,2021,0.16,0.12,0.02,0.1,0.4
+GM0926,Steel Horizon 0926,Mobile,Action,NextLevel Entertainment,2016,0.17,0.13,0.07,0.16,0.53
+GM0927,Auto Workshop Sim 0927,PlayStation 4,Simulation,NextLevel Entertainment,2019,0.22,0.2,0.09,0.14,0.65
+GM0928,Kingdom Quest 0928,PC,Role-Playing,Vertex Play,2019,1.7,1.62,0.33,1.49,5.14
+GM0929,Chronicles of Ember 0929,PC,Role-Playing,Nova Games,2025,0.35,0.27,0.05,0.38,1.05
+GM0930,City Builder X 0930,Xbox Series X|S,Simulation,Vertex Play,2024,0.18,0.19,0.05,0.18,0.6
+GM0931,Mystic Trails 0931,PC,Adventure,Arcadia Interactive,2016,0.17,0.14,0.06,0.1,0.47
+GM0932,Skybound Journey 0932,PC,Adventure,BluePeak Digital,2019,1.11,1.09,0.49,0.77,3.46
+GM0933,Rogue Battalion 0933,Nintendo Switch,Action,Arcadia Interactive,2020,0.43,0.35,0.09,0.12,0.99
+GM0934,Crystal Logic 0934,Mobile,Puzzle,RedFox Publishing,2025,0.09,0.06,0.04,0.03,0.22
+GM0935,Final Round 0935,PC,Fighting,BluePeak Digital,2020,0.27,0.15,0.03,0.12,0.57
+GM0936,Velocity Rush 0936,Nintendo Switch,Racing,Pixel Studios,2021,0.86,0.52,0.11,0.46,1.95
+GM0937,Steel Horizon 0937,PlayStation 4,Action,Arcadia Interactive,2023,0.61,0.58,0.07,0.48,1.74
+GM0938,Nightfall Protocol 0938,Nintendo Switch,Action,Pixel Studios,2015,0.32,0.29,0.04,0.22,0.87
+GM0939,Nightfall Protocol 0939,Nintendo Switch,Action,Arcadia Interactive,2016,0.56,0.37,0.22,0.16,1.31
+GM0940,Kingdom Quest 0940,PlayStation 4,Role-Playing,BluePeak Digital,2018,1.33,1.26,0.19,0.76,3.54
+GM0941,The Forgotten Map 0941,Xbox Series X|S,Adventure,Arcadia Interactive,2024,0.17,0.09,0.06,0.06,0.38
+GM0942,Skybound Journey 0942,Xbox Series X|S,Adventure,Orbit Works,2019,0.08,0.05,0.02,0.04,0.19
+GM0943,Phantom Ops 0943,PC,Shooter,Vertex Play,2020,0.39,0.29,0.11,0.28,1.07
+GM0944,Combat Legends 0944,PC,Fighting,Nova Games,2021,0.37,0.31,0.15,0.07,0.9
+GM0945,Rogue Battalion 0945,PC,Action,Nova Games,2022,0.34,0.36,0.14,0.24,1.08
+GM0946,Kingdom Quest 0946,Nintendo Switch,Role-Playing,Vertex Play,2020,0.68,0.49,0.24,0.27,1.68
+GM0947,Deep Space Engineer 0947,PC,Simulation,Vertex Play,2017,0.08,0.05,0.01,0.03,0.17
+GM0948,Arena Clash 0948,Nintendo Switch,Fighting,NextLevel Entertainment,2016,0.66,0.45,0.08,0.73,1.92
+GM0949,Drift Republic 0949,PC,Racing,Pixel Studios,2019,0.47,0.38,0.14,0.12,1.11
+GM0950,Pro League 26 0950,PlayStation 5,Sports,NextLevel Entertainment,2017,0.33,0.29,0.08,0.29,0.99
+GM0951,Neon Rebellion 0951,PlayStation 4,Action,Orbit Works,2021,0.2,0.17,0.03,0.11,0.51
+GM0952,Kingdom Quest 0952,Xbox Series X|S,Role-Playing,Nova Games,2024,0.2,0.14,0.02,0.08,0.44
+GM0953,Frontline Zero 0953,PlayStation 4,Shooter,Vertex Play,2019,0.37,0.38,0.12,0.22,1.09
+GM0954,Turbo Circuit 0954,Xbox One,Racing,BluePeak Digital,2025,0.52,0.4,0.1,0.2,1.22
+GM0955,Puzzle Planet 0955,Mobile,Puzzle,Pixel Studios,2025,0.1,0.06,0.03,0.05,0.24
+GM0956,Nitro Horizon 0956,PlayStation 5,Racing,BluePeak Digital,2024,1.06,0.71,0.12,0.69,2.58
+GM0957,Frontline Zero 0957,PlayStation 5,Shooter,Pixel Studios,2022,1.77,1.45,0.62,0.21,4.05
+GM0958,Farmstead Life 0958,PC,Simulation,Arcadia Interactive,2021,0.39,0.38,0.07,0.41,1.25
+GM0959,Critical Impact 0959,PlayStation 4,Shooter,BluePeak Digital,2024,0.49,0.35,0.15,0.49,1.48
+GM0960,Neon Rebellion 0960,Xbox Series X|S,Action,NextLevel Entertainment,2019,0.32,0.3,0.09,0.22,0.93
+GM0961,Turbo Circuit 0961,PC,Racing,Nova Games,2025,0.65,0.57,0.32,0.27,1.81
+GM0962,Deep Space Engineer 0962,PlayStation 4,Simulation,NextLevel Entertainment,2024,0.7,0.66,0.31,0.25,1.92
+GM0963,The Clockwork Room 0963,PlayStation 4,Puzzle,RedFox Publishing,2016,0.23,0.14,0.06,0.16,0.59
+GM0964,Neon Rebellion 0964,PlayStation 4,Action,NextLevel Entertainment,2019,1.1,0.59,0.42,0.47,2.58
+GM0965,Arena Clash 0965,Xbox Series X|S,Fighting,NextLevel Entertainment,2023,0.93,0.57,0.34,0.66,2.5
+GM0966,Rogue Battalion 0966,Mobile,Action,Orbit Works,2025,0.12,0.09,0.05,0.08,0.34
+GM0967,Neon Rebellion 0967,Nintendo Switch,Action,BluePeak Digital,2025,0.42,0.32,0.17,0.14,1.05
+GM0968,Puzzle Planet 0968,Mobile,Puzzle,RedFox Publishing,2024,0.44,0.44,0.07,0.41,1.36
+GM0969,Turbo Circuit 0969,Xbox One,Racing,RedFox Publishing,2022,0.05,0.02,0.0,0.03,0.1
+GM0970,Crystal Logic 0970,Xbox Series X|S,Puzzle,RedFox Publishing,2025,0.2,0.13,0.07,0.14,0.54
+GM0971,Speed Legends 0971,PlayStation 4,Racing,BluePeak Digital,2020,0.12,0.09,0.05,0.12,0.38
+GM0972,Mystic Trails 0972,Xbox Series X|S,Adventure,Nova Games,2018,0.11,0.1,0.05,0.11,0.37
+GM0973,The Forgotten Map 0973,PC,Adventure,RedFox Publishing,2022,0.53,0.59,0.12,0.45,1.69
+GM0974,Flight Academy 0974,Mobile,Simulation,NextLevel Entertainment,2022,0.38,0.27,0.07,0.19,0.91
+GM0975,Deep Space Engineer 0975,PC,Simulation,BluePeak Digital,2021,0.51,0.36,0.09,0.5,1.46
+GM0976,Shadow Duel 0976,PlayStation 5,Fighting,NextLevel Entertainment,2016,0.09,0.1,0.04,0.05,0.28
+GM0977,Iron Realms 0977,Mobile,Strategy,Nova Games,2022,0.44,0.28,0.19,0.17,1.08
+GM0978,Neon Rebellion 0978,PlayStation 4,Action,Nova Games,2021,0.33,0.24,0.1,0.31,0.98
+GM0979,Nightfall Protocol 0979,PC,Action,BluePeak Digital,2015,0.08,0.08,0.02,0.06,0.24
+GM0980,Neon Rebellion 0980,PlayStation 4,Action,RedFox Publishing,2015,1.32,0.98,0.22,0.27,2.79
+GM0981,Final Round 0981,PlayStation 4,Fighting,Orbit Works,2017,1.21,0.64,0.42,0.26,2.53
+GM0982,Legends of Aether 0982,PC,Role-Playing,NextLevel Entertainment,2023,0.17,0.14,0.04,0.19,0.54
+GM0983,Mystic Trails 0983,PC,Adventure,Orbit Works,2024,1.7,1.06,0.16,0.84,3.76
+GM0984,Shadow Strike 0984,Mobile,Action,Vertex Play,2025,0.55,0.62,0.14,0.46,1.77
+GM0985,Tactical Dominion 0985,Mobile,Strategy,Vertex Play,2017,0.03,0.03,0.01,0.03,0.1
+GM0986,Mystic Trails 0986,Xbox One,Adventure,NextLevel Entertainment,2016,0.33,0.24,0.07,0.21,0.85
+GM0987,Turbo Circuit 0987,PC,Racing,Orbit Works,2019,0.71,0.59,0.13,0.89,2.32
+GM0988,Speed Legends 0988,Xbox Series X|S,Racing,NextLevel Entertainment,2018,0.2,0.13,0.06,0.06,0.45
+GM0989,Frontline Zero 0989,PC,Shooter,BluePeak Digital,2020,0.26,0.24,0.04,0.25,0.79
+GM0990,The Forgotten Map 0990,Xbox Series X|S,Adventure,BluePeak Digital,2018,0.2,0.11,0.07,0.09,0.47
+GM0991,Empire Architect 0991,Mobile,Strategy,NextLevel Entertainment,2024,0.23,0.16,0.08,0.1,0.57
+GM0992,Target Lock 0992,Nintendo Switch,Shooter,Vertex Play,2025,0.4,0.38,0.09,0.26,1.13
+GM0993,Echoes of Avalon 0993,Nintendo Switch,Adventure,BluePeak Digital,2018,0.18,0.14,0.08,0.16,0.56
+GM0994,Orbital Strike 0994,PC,Shooter,Pixel Studios,2020,0.71,0.52,0.22,0.41,1.86
+GM0995,Frontline Zero 0995,Mobile,Shooter,NextLevel Entertainment,2021,0.72,0.58,0.15,0.3,1.75
+GM0996,Rogue Battalion 0996,PlayStation 4,Action,Arcadia Interactive,2024,0.39,0.29,0.12,0.37,1.17
+GM0997,Rogue Battalion 0997,PlayStation 5,Action,Vertex Play,2016,0.38,0.19,0.13,0.1,0.8
+GM0998,Phantom Ops 0998,PlayStation 4,Shooter,RedFox Publishing,2023,0.25,0.23,0.06,0.15,0.69
+GM0999,Empire Architect 0999,Mobile,Strategy,Nova Games,2016,0.31,0.23,0.08,0.2,0.82
+GM1000,Orbital Strike 1000,Nintendo Switch,Shooter,Arcadia Interactive,2017,0.89,0.58,0.12,0.4,1.99

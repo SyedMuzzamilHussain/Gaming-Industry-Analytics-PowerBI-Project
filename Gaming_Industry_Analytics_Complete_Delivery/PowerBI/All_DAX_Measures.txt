@@ -1,0 +1,26 @@
+Total Global Sales =
+SUM('Gaming_Industry_Synthetic_Dataset'[Global_Sales_M])
+
+Total Game Records =
+COUNTROWS('Gaming_Industry_Synthetic_Dataset')
+
+Average Global Sales =
+AVERAGE('Gaming_Industry_Synthetic_Dataset'[Global_Sales_M])
+
+Platform Sales =
+SUM('Gaming_Industry_Synthetic_Dataset'[Global_Sales_M])
+
+North America Sales =
+SUM('Gaming_Industry_Synthetic_Dataset'[North_America_Sales_M])
+
+Europe Sales =
+SUM('Gaming_Industry_Synthetic_Dataset'[Europe_Sales_M])
+
+Japan Sales =
+SUM('Gaming_Industry_Synthetic_Dataset'[Japan_Sales_M])
+
+Other Regions Sales =
+SUM('Gaming_Industry_Synthetic_Dataset'[Other_Regions_Sales_M])
+
+Distinct Platforms =
+DISTINCTCOUNT('Gaming_Industry_Synthetic_Dataset'[Platform])

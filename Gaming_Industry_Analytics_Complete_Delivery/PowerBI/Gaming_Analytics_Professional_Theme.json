@@ -1,0 +1,73 @@
+{
+  "name": "Gaming Industry Analytics \u2014 Neon Night",
+  "dataColors": [
+    "#8B5CF6",
+    "#22D3EE",
+    "#F472B6",
+    "#A3E635",
+    "#F59E0B",
+    "#60A5FA",
+    "#FB7185",
+    "#C084FC"
+  ],
+  "background": "#101426",
+  "foreground": "#F8FAFC",
+  "tableAccent": "#8B5CF6",
+  "good": "#22C55E",
+  "neutral": "#F59E0B",
+  "bad": "#F87171",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [
+          {
+            "show": true,
+            "fontFamily": "Segoe UI Semibold",
+            "fontSize": 12,
+            "color": {
+              "solid": {
+                "color": "#F8FAFC"
+              }
+            }
+          }
+        ],
+        "background": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#1B2238"
+              }
+            },
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#303A59"
+              }
+            },
+            "radius": 8
+          }
+        ]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#101426"
+              }
+            },
+            "transparency": 0
+          }
+        ]
+      }
+    }
+  }
+}
